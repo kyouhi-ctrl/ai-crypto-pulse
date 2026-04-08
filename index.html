@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI + Crypto Pulse</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0d1117;
+      --card: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --accent: #58a6ff;
+      --ai: #a371f7;
+      --crypto: #f0883e;
+      --green: #3fb950;
+      --red: #f85149;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 30px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .header h1 {
+      font-size: 1.8rem;
+      font-weight: 700;
+      background: linear-gradient(90deg, var(--ai), var(--crypto));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .header .updated {
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin-top: 6px;
+    }
+
+    .refresh-btn {
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 8px 20px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.9rem;
+      margin-top: 12px;
+    }
+    .refresh-btn:hover { border-color: var(--accent); }
+
+    .loading {
+      text-align: center;
+      color: var(--muted);
+      padding: 60px;
+      font-size: 1.1rem;
+    }
+
+    .columns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    @media (max-width: 800px) {
+      .columns { grid-template-columns: 1fr; }
+    }
+
+    .column { display: flex; flex-direction: column; gap: 16px; }
+
+    .column-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 1rem;
+      font-weight: 600;
+      padding-bottom: 8px;
+      border-bottom: 2px solid;
+    }
+    .column-header.ai { color: var(--ai); border-color: var(--ai); }
+    .column-header.crypto { color: var(--crypto); border-color: var(--crypto); }
+
+    .section-title {
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+      margin-bottom: 8px;
+      margin-top: 4px;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 14px 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      transition: border-color 0.15s;
+    }
+    .card:hover { border-color: var(--accent); }
+
+    .card-title {
+      font-size: 0.95rem;
+      font-weight: 500;
+      line-height: 1.4;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card a {
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.85rem;
+    }
+    .card a:hover { text-decoration: underline; }
+
+    .card-meta {
+      display: flex;
+      gap: 12px;
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-top: 4px;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 1px 7px;
+      border-radius: 12px;
+      font-size: 0.72rem;
+      font-weight: 500;
+    }
+    .badge-hn { background: #ff6600; color: #fff; }
+    .badge-gh { background: #238636; color: #fff; }
+    .badge-reddit { background: #ff4500; color: #fff; }
+    .badge-cg { background: #ffb300; color: #000; }
+    .badge-cp { background: #4a154b; color: #fff; }
+    .badge-arxiv { background: #b85; color: #fff; }
+
+    .rank {
+      font-size: 0.8rem;
+      color: var(--muted);
+      min-width: 20px;
+    }
+
+    .item-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+    }
+
+    .score {
+      font-size: 0.78rem;
+      color: var(--green);
+      font-weight: 600;
+      min-width: 30px;
+      text-align: right;
+    }
+    .score-rank {
+      font-size: 0.78rem;
+      color: var(--muted);
+      min-width: 22px;
+      text-align: right;
+    }
+
+    .error-msg {
+      color: var(--red);
+      font-size: 0.85rem;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>🤖 AI + Crypto Pulse</h1>
+    <div class="updated" id="updated">Loading...</div>
+    <button class="refresh-btn" onclick="loadData()">🔄 Refresh</button>
+  </div>
+
+  <div class="columns">
+    <!-- AI Column -->
+    <div class="column" id="ai-col">
+      <div class="column-header ai">🤖 AI</div>
+      <div class="loading">Loading AI news...</div>
+    </div>
+
+    <!-- Crypto Column -->
+    <div class="column" id="crypto-col">
+      <div class="column-header crypto">💰 Crypto</div>
+      <div class="loading">Loading crypto news...</div>
+    </div>
+  </div>
+
+  <script>
+    const SOURCES = {
+      ai: [
+        { key: 'hackerNews', title: 'Hacker News', badgeClass: 'badge-hn' },
+        { key: 'github', title: 'GitHub Trending', badgeClass: 'badge-gh' },
+        { key: 'arxiv', title: 'ArXiv AI', badgeClass: 'badge-arxiv' },
+      ],
+      crypto: [
+        { key: 'coingecko', title: 'CoinGecko Trending', badgeClass: 'badge-cg' },
+        { key: 'cryptopanic', title: 'CryptoPanic', badgeClass: 'badge-cp' },
+        { key: 'reddit', title: 'Reddit', badgeClass: 'badge-reddit' },
+      ]
+    };
+
+    function scoreLabel(item, idx) {
+      if (item.score > 0) {
+        const label = item.score > 1000 ? (item.score / 1000).toFixed(1) + 'k' : item.score;
+        return `<span class="score">▲ ${label}</span>`;
+      }
+      return `<span class="score-rank">#${idx + 1}</span>`;
+    }
+
+    function renderSection(title, items, badgeClass) {
+      if (!items || items.length === 0) return '';
+      return `
+        <div class="section-title">${title}</div>
+        ${items.slice(0, 8).map((item, idx) => `
+          <div class="card">
+            <div class="item-row">
+              ${scoreLabel(item, idx)}
+              <div>
+                <div class="card-title">${esc(item.title)}</div>
+                <a href="${esc(item.url)}" target="_blank" rel="noopener">→ Read more</a>
+                <div class="card-meta">
+                  <span class="badge ${badgeClass}">${title}</span>
+                  ${item.time ? '<span>' + relTime(item.time) + '</span>' : ''}
+                </div>
+              </div>
+            </div>
+          </div>
+        `).join('')}
+      `;
+    }
+
+    function esc(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function relTime(iso) {
+      const diff = Date.now() - new Date(iso).getTime();
+      const h = Math.floor(diff / 3600000);
+      if (h < 1) return 'just now';
+      if (h < 24) return `${h}h ago`;
+      const d = Math.floor(h / 24);
+      return `${d}d ago`;
+    }
+
+    async function loadData() {
+      try {
+        const res = await fetch('data/news.json?t=' + Date.now());
+        if (!res.ok) throw new Error('Data file not found. Run aggregator.js first.');
+        const data = await res.json();
+
+        document.getElementById('updated').textContent =
+          'Updated: ' + new Date(data.updatedAt).toLocaleString();
+
+        // AI column
+        let aiHtml = '<div class="column-header ai">🤖 AI</div>';
+        for (const src of SOURCES.ai) {
+          aiHtml += renderSection(src.title, data.ai?.[src.key], src.badgeClass);
+        }
+        document.getElementById('ai-col').innerHTML = aiHtml || '<div class="error-msg">No data</div>';
+
+        // Crypto column
+        let cryptoHtml = '<div class="column-header crypto">💰 Crypto</div>';
+        for (const src of SOURCES.crypto) {
+          cryptoHtml += renderSection(src.title, data.crypto?.[src.key], src.badgeClass);
+        }
+        document.getElementById('crypto-col').innerHTML = cryptoHtml || '<div class="error-msg">No data</div>';
+
+      } catch (e) {
+        document.getElementById('ai-col').innerHTML = '<div class="error-msg">Error: ' + esc(e.message) + '</div>';
+        document.getElementById('crypto-col').innerHTML = '';
+      }
+    }
+
+    loadData();
+    setInterval(loadData, 5 * 60 * 1000); // refresh every 5 min
+  </script>
+</body>
+</html>
