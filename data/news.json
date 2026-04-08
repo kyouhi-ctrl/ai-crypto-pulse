@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-04-08T06:22:14.476Z",
+  "updatedAt": "2026-04-08T06:41:55.922Z",
   "ai": {
     "hackerNews": [
       {
         "title": "Project Glasswing: Securing critical software for the AI era",
         "url": "https://www.anthropic.com/glasswing",
-        "score": 1125,
+        "score": 1146,
         "source": "Hacker News",
         "time": "2026-04-07T18:09:34.000Z"
       },
       {
         "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
         "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-        "score": 742,
+        "score": 745,
         "source": "Hacker News",
         "time": "2026-04-07T11:07:44.000Z"
       },
       {
         "title": "System Card: Claude Mythos Preview [pdf]",
         "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-        "score": 635,
+        "score": 637,
         "source": "Hacker News",
         "time": "2026-04-07T18:18:36.000Z"
       },
       {
         "title": "Lunar Flyby",
         "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-        "score": 577,
+        "score": 593,
         "source": "Hacker News",
         "time": "2026-04-07T15:03:18.000Z"
       },
       {
         "title": "GLM-5.1: Towards Long-Horizon Tasks",
         "url": "https://z.ai/blog/glm-5.1",
-        "score": 486,
+        "score": 489,
         "source": "Hacker News",
         "time": "2026-04-07T16:32:15.000Z"
       },
       {
         "title": "US and Iran agree to provisional ceasefire",
         "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
-        "score": 391,
+        "score": 401,
         "source": "Hacker News",
         "time": "2026-04-07T22:41:02.000Z"
       },
       {
         "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
         "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
-        "score": 352,
+        "score": 353,
         "source": "Hacker News",
         "time": "2026-04-07T17:23:43.000Z"
       },
@@ -61,173 +61,173 @@
       {
         "title": "A truck driver spent 20 years making a scale model of every building in NYC",
         "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-        "score": 301,
+        "score": 303,
         "source": "Hacker News",
         "time": "2026-04-06T05:22:24.000Z"
       },
       {
         "title": "How to get better at guitar",
         "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
-        "score": 274,
+        "score": 280,
         "source": "Hacker News",
         "time": "2026-04-05T16:14:12.000Z"
       },
       {
         "title": "S3 Files",
         "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
-        "score": 266,
+        "score": 268,
         "source": "Hacker News",
         "time": "2026-04-07T19:44:01.000Z"
       },
       {
         "title": "Google open-sources experimental agent orchestration testbed Scion",
         "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
-        "score": 182,
+        "score": 184,
         "source": "Hacker News",
         "time": "2026-04-07T13:39:15.000Z"
       },
       {
         "title": "Running out of disk space in production",
         "url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
-        "score": 181,
+        "score": 183,
         "source": "Hacker News",
         "time": "2026-04-03T14:42:28.000Z"
       },
       {
         "title": "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
         "url": "https://printervention.app/details",
-        "score": 181,
+        "score": 183,
         "source": "Hacker News",
         "time": "2026-04-07T16:33:57.000Z"
       },
       {
         "title": "Show HN: An interactive map of Tolkien's Middle-earth",
         "url": "https://middle-earth-interactive-map.web.app/",
-        "score": 159,
+        "score": 165,
         "source": "Hacker News",
         "time": "2026-04-07T20:42:37.000Z"
       }
     ],
     "github": [
       {
-        "title": "milla-jovovich/mempalace",
-        "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
-        "url": "https://github.com/milla-jovovich/mempalace",
-        "score": 20012,
+        "title": "sindresorhus/awesome",
+        "description": "😎 Awesome lists about all kinds of interesting topics",
+        "url": "https://github.com/sindresorhus/awesome",
+        "score": 453035,
         "source": "GitHub",
-        "time": "2026-04-05T01:12:07Z"
+        "time": "2026-04-02T16:30:33Z"
       },
       {
-        "title": "santifer/career-ops",
-        "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-        "url": "https://github.com/santifer/career-ops",
-        "score": 19752,
+        "title": "freeCodeCamp/freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+        "score": 442161,
         "source": "GitHub",
-        "time": "2026-04-04T18:21:18Z"
+        "time": "2026-04-08T06:34:57Z"
       },
       {
-        "title": "safishamsi/graphify",
-        "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
-        "url": "https://github.com/safishamsi/graphify",
-        "score": 8256,
+        "title": "EbookFoundation/free-programming-books",
+        "description": ":books: Freely available programming books",
+        "url": "https://github.com/EbookFoundation/free-programming-books",
+        "score": 385170,
         "source": "GitHub",
-        "time": "2026-04-03T15:49:07Z"
+        "time": "2026-04-07T19:54:45Z"
       },
       {
-        "title": "ultraworkers/claw-code-parity",
-        "description": "Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration",
-        "url": "https://github.com/ultraworkers/claw-code-parity",
-        "score": 6607,
+        "title": "kamranahmedse/developer-roadmap",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "url": "https://github.com/kamranahmedse/developer-roadmap",
+        "score": 352484,
         "source": "GitHub",
-        "time": "2026-04-02T05:39:02Z"
+        "time": "2026-04-07T16:08:49Z"
       },
       {
-        "title": "JuliusBrussee/caveman",
-        "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "url": "https://github.com/JuliusBrussee/caveman",
-        "score": 6278,
+        "title": "openclaw/openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+        "url": "https://github.com/openclaw/openclaw",
+        "score": 351526,
         "source": "GitHub",
-        "time": "2026-04-04T10:03:00Z"
+        "time": "2026-04-08T06:41:12Z"
       },
       {
-        "title": "kevinrgu/autoagent",
-        "description": "autonomous harness engineering",
-        "url": "https://github.com/kevinrgu/autoagent",
-        "score": 3827,
+        "title": "vinta/awesome-python",
+        "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+        "url": "https://github.com/vinta/awesome-python",
+        "score": 291270,
         "source": "GitHub",
-        "time": "2026-04-02T20:44:58Z"
+        "time": "2026-04-07T03:34:03Z"
       },
       {
-        "title": "alchaincyf/nuwa-skill",
-        "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-        "url": "https://github.com/alchaincyf/nuwa-skill",
-        "score": 2903,
+        "title": "awesome-selfhosted/awesome-selfhosted",
+        "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+        "score": 284764,
         "source": "GitHub",
-        "time": "2026-04-05T04:33:04Z"
+        "time": "2026-04-05T10:45:12Z"
       },
       {
-        "title": "sooryathejas/METATRON",
-        "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
-        "url": "https://github.com/sooryathejas/METATRON",
-        "score": 1768,
+        "title": "facebook/react",
+        "description": "The library for web and native user interfaces.",
+        "url": "https://github.com/facebook/react",
+        "score": 244483,
         "source": "GitHub",
-        "time": "2026-04-02T06:06:43Z"
+        "time": "2026-04-07T17:16:37Z"
       },
       {
-        "title": "leilei926524-tech/anti-distill",
-        "description": "反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.",
-        "url": "https://github.com/leilei926524-tech/anti-distill",
-        "score": 1268,
+        "title": "torvalds/linux",
+        "description": "Linux kernel source tree",
+        "url": "https://github.com/torvalds/linux",
+        "score": 227461,
         "source": "GitHub",
-        "time": "2026-04-02T10:51:10Z"
+        "time": "2026-04-07T19:26:16Z"
       },
       {
-        "title": "GitFrog1111/badclaude",
-        "description": null,
-        "url": "https://github.com/GitFrog1111/badclaude",
-        "score": 1256,
+        "title": "TheAlgorithms/Python",
+        "description": "All Algorithms implemented in Python",
+        "url": "https://github.com/TheAlgorithms/Python",
+        "score": 219383,
         "source": "GitHub",
-        "time": "2026-04-04T07:44:55Z"
+        "time": "2026-04-06T21:03:33Z"
       },
       {
-        "title": "afar1/fieldtheory-cli",
-        "description": "Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.",
-        "url": "https://github.com/afar1/fieldtheory-cli",
-        "score": 1166,
+        "title": "tensorflow/tensorflow",
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "url": "https://github.com/tensorflow/tensorflow",
+        "score": 194575,
         "source": "GitHub",
-        "time": "2026-04-03T16:36:36Z"
+        "time": "2026-04-08T06:41:16Z"
       },
       {
-        "title": "farzaa/clicky",
-        "description": null,
-        "url": "https://github.com/farzaa/clicky",
-        "score": 1090,
+        "title": "ohmyzsh/ohmyzsh",
+        "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+        "url": "https://github.com/ohmyzsh/ohmyzsh",
+        "score": 186020,
         "source": "GitHub",
-        "time": "2026-04-07T05:12:51Z"
+        "time": "2026-04-07T10:25:32Z"
       },
       {
-        "title": "KKKKhazix/khazix-skills",
-        "description": "数字生命卡兹克开源的 AI Skills 合集",
-        "url": "https://github.com/KKKKhazix/khazix-skills",
-        "score": 1031,
+        "title": "microsoft/vscode",
+        "description": "Visual Studio Code",
+        "url": "https://github.com/microsoft/vscode",
+        "score": 183564,
         "source": "GitHub",
-        "time": "2026-04-06T07:37:02Z"
+        "time": "2026-04-08T06:28:59Z"
       },
       {
-        "title": "luyao618/Claude-Code-Source-Study",
-        "description": "深入Claude Code源码，学习目前最好的agent实现",
-        "url": "https://github.com/luyao618/Claude-Code-Source-Study",
-        "score": 1027,
+        "title": "Significant-Gravitas/AutoGPT",
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "score": 183229,
         "source": "GitHub",
-        "time": "2026-04-02T07:12:06Z"
+        "time": "2026-04-08T03:27:14Z"
       },
       {
-        "title": "hotcoffeeshake/tong-jincheng-skill",
-        "description": "童锦程视角 Skill — 用深情祖师爷的思维框架分析人际关系",
-        "url": "https://github.com/hotcoffeeshake/tong-jincheng-skill",
-        "score": 992,
+        "title": "n8n-io/n8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "url": "https://github.com/n8n-io/n8n",
+        "score": 182923,
         "source": "GitHub",
-        "time": "2026-04-05T17:13:59Z"
+        "time": "2026-04-08T06:25:45Z"
       }
     ],
     "arxiv": [
@@ -236,112 +236,111 @@
         "url": "http://arxiv.org/abs/2604.06161v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-08T06:22:13.870Z"
+        "time": "2026-04-08T06:41:54.062Z"
       },
       {
         "title": "MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control",
         "url": "http://arxiv.org/abs/2604.06155v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-08T06:22:13.871Z"
+        "time": "2026-04-08T06:41:54.063Z"
       },
       {
         "title": "Who Governs the Machine? A Machine Identity Governance Taxonomy (MIGT) for AI Systems Operating Across Enterprise and Geopolitical Boundaries",
         "url": "http://arxiv.org/abs/2604.06138v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-08T06:22:13.871Z"
+        "time": "2026-04-08T06:41:54.063Z"
       },
       {
         "title": "Shot-Based Quantum Encoding: A Data-Loading Paradigm for Quantum Neural Networks",
         "url": "http://arxiv.org/abs/2604.06132v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-08T06:22:13.871Z"
+        "time": "2026-04-08T06:41:54.063Z"
       },
       {
         "title": "PoM: A Linear-Time Replacement for Attention with the Polynomial Mixer",
         "url": "http://arxiv.org/abs/2604.06126v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-08T06:22:13.871Z"
+        "time": "2026-04-08T06:41:54.063Z"
       }
     ]
   },
   "crypto": {
     "coingecko": [
       {
-        "title": "Pudgy Penguins (PENGU)",
-        "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-        "score": 104,
+        "title": "Bitcoin (BTC)",
+        "url": "https://www.coingecko.com/en/coins/bitcoin",
+        "score": 1,
         "source": "CoinGecko",
-        "time": "2026-04-08T06:22:13.874Z"
+        "time": "2026-04-08T06:41:55.922Z"
       },
       {
         "title": "Zcash (ZEC)",
         "url": "https://www.coingecko.com/en/coins/zcash",
         "score": 22,
         "source": "CoinGecko",
-        "time": "2026-04-08T06:22:13.874Z"
+        "time": "2026-04-08T06:41:55.922Z"
       },
       {
         "title": "Ethereum (ETH)",
         "url": "https://www.coingecko.com/en/coins/ethereum",
         "score": 2,
         "source": "CoinGecko",
-        "time": "2026-04-08T06:22:13.874Z"
-      },
-      {
-        "title": "Hyperliquid (HYPE)",
-        "url": "https://www.coingecko.com/en/coins/hyperliquid",
-        "score": 15,
-        "source": "CoinGecko",
-        "time": "2026-04-08T06:22:13.874Z"
+        "time": "2026-04-08T06:41:55.922Z"
       },
       {
         "title": "Sui (SUI)",
         "url": "https://www.coingecko.com/en/coins/sui",
         "score": 30,
         "source": "CoinGecko",
-        "time": "2026-04-08T06:22:13.874Z"
-      },
-      {
-        "title": "Bitcoin (BTC)",
-        "url": "https://www.coingecko.com/en/coins/bitcoin",
-        "score": 1,
-        "source": "CoinGecko",
-        "time": "2026-04-08T06:22:13.874Z"
+        "time": "2026-04-08T06:41:55.922Z"
       },
       {
         "title": "Bittensor (TAO)",
         "url": "https://www.coingecko.com/en/coins/bittensor",
         "score": 33,
         "source": "CoinGecko",
-        "time": "2026-04-08T06:22:13.874Z"
+        "time": "2026-04-08T06:41:55.922Z"
+      },
+      {
+        "title": "Hyperliquid (HYPE)",
+        "url": "https://www.coingecko.com/en/coins/hyperliquid",
+        "score": 14,
+        "source": "CoinGecko",
+        "time": "2026-04-08T06:41:55.922Z"
+      },
+      {
+        "title": "Pudgy Penguins (PENGU)",
+        "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+        "score": 104,
+        "source": "CoinGecko",
+        "time": "2026-04-08T06:41:55.922Z"
       },
       {
         "title": "Solana (SOL)",
         "url": "https://www.coingecko.com/en/coins/solana",
         "score": 7,
         "source": "CoinGecko",
-        "time": "2026-04-08T06:22:13.874Z"
+        "time": "2026-04-08T06:41:55.922Z"
       },
       {
-        "title": "Monad (MON)",
-        "url": "https://www.coingecko.com/en/coins/monad",
-        "score": 127,
+        "title": "Siren (SIREN)",
+        "url": "https://www.coingecko.com/en/coins/siren-2",
+        "score": 112,
         "source": "CoinGecko",
-        "time": "2026-04-08T06:22:13.874Z"
+        "time": "2026-04-08T06:41:55.922Z"
       },
       {
         "title": "JOE (JOE)",
         "url": "https://www.coingecko.com/en/coins/joe",
-        "score": 661,
+        "score": 701,
         "source": "CoinGecko",
-        "time": "2026-04-08T06:22:13.874Z"
+        "time": "2026-04-08T06:41:55.922Z"
       }
     ],
-    "cryptopanic": [],
     "reddit": [
       {
         "title": "Daily Crypto Discussion - April 7, 2026 (GMT+0)",
@@ -353,30 +352,30 @@
       {
         "title": "84% of Polymarket traders are losing money. That says a lot about who prediction markets are really built for.",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sf5h1k/84_of_polymarket_traders_are_losing_money_that/",
-        "score": 470,
+        "score": 481,
         "source": "Reddit",
         "time": "2026-04-07T19:06:09.000Z"
       },
       {
         "title": "Suspected North Korean IT Operative Exposed in Remote Job Interview After Failing Loyalty Test",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sf8q8v/suspected_north_korean_it_operative_exposed_in/",
-        "score": 275,
+        "score": 279,
         "source": "Reddit",
         "time": "2026-04-07T21:06:19.000Z"
       },
       {
-        "title": "Bitcoin Tops $72K as US-Iran Ceasefire Sparks Rally : But For How Long?",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1sffhp7/bitcoin_tops_72k_as_usiran_ceasefire_sparks_rally/",
-        "score": 64,
-        "source": "Reddit",
-        "time": "2026-04-08T01:47:36.000Z"
-      },
-      {
         "title": "Morgan Stanley's Bitcoin ETF Goes Live Tomorrow",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sfgw0a/morgan_stanleys_bitcoin_etf_goes_live_tomorrow/",
-        "score": 52,
+        "score": 60,
         "source": "Reddit",
         "time": "2026-04-08T02:51:27.000Z"
+      },
+      {
+        "title": "Bitcoin Tops $72K as US-Iran Ceasefire Sparks Rally : But For How Long?",
+        "url": "https://reddit.com/r/CryptoCurrency/comments/1sffhp7/bitcoin_tops_72k_as_usiran_ceasefire_sparks_rally/",
+        "score": 69,
+        "source": "Reddit",
+        "time": "2026-04-08T01:47:36.000Z"
       },
       {
         "title": "'A whole civilization will die': Crypto markets under pressure as Trump ups rhetoric towards Iran",
@@ -386,9 +385,16 @@
         "time": "2026-04-07T14:35:35.000Z"
       },
       {
+        "title": "Grayscale Thinks Ethereum And Solana Have Compelling Buying Prices Now",
+        "url": "https://reddit.com/r/CryptoCurrency/comments/1sfkby4/grayscale_thinks_ethereum_and_solana_have/",
+        "score": 8,
+        "source": "Reddit",
+        "time": "2026-04-08T05:49:43.000Z"
+      },
+      {
         "title": "Crypto Banks Reach Stablecoin Deal in CLARITY Act Talks",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sf9fdk/crypto_banks_reach_stablecoin_deal_in_clarity_act/",
-        "score": 19,
+        "score": 20,
         "source": "Reddit",
         "time": "2026-04-07T21:32:29.000Z"
       },
@@ -405,13 +411,6 @@
         "score": 73,
         "source": "Reddit",
         "time": "2026-04-07T14:07:50.000Z"
-      },
-      {
-        "title": "Grayscale Thinks Ethereum And Solana Have Compelling Buying Prices Now",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1sfkby4/grayscale_thinks_ethereum_and_solana_have/",
-        "score": 4,
-        "source": "Reddit",
-        "time": "2026-04-08T05:49:43.000Z"
       }
     ]
   }
