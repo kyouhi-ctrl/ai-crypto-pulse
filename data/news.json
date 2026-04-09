@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T00:01:14.803Z",
+  "updatedAt": "2026-04-09T00:02:22.373Z",
   "ai": {
     "hackerNews": [
       {
@@ -113,7 +113,7 @@
         "title": "sindresorhus/awesome",
         "description": "😎 Awesome lists about all kinds of interesting topics",
         "url": "https://github.com/sindresorhus/awesome",
-        "score": 453290,
+        "score": 453291,
         "source": "GitHub",
         "time": "2026-04-02T16:30:33Z"
       },
@@ -145,7 +145,7 @@
         "title": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "score": 352269,
+        "score": 352271,
         "source": "GitHub",
         "time": "2026-04-09T00:00:00Z"
       },
@@ -153,7 +153,7 @@
         "title": "vinta/awesome-python",
         "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
         "url": "https://github.com/vinta/awesome-python",
-        "score": 291421,
+        "score": 291422,
         "source": "GitHub",
         "time": "2026-04-08T07:24:22Z"
       },
@@ -161,7 +161,7 @@
         "title": "awesome-selfhosted/awesome-selfhosted",
         "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-        "score": 284931,
+        "score": 284932,
         "source": "GitHub",
         "time": "2026-04-05T10:45:12Z"
       },
@@ -177,7 +177,7 @@
         "title": "torvalds/linux",
         "description": "Linux kernel source tree",
         "url": "https://github.com/torvalds/linux",
-        "score": 227589,
+        "score": 227590,
         "source": "GitHub",
         "time": "2026-04-08T20:54:04Z"
       },
@@ -195,7 +195,7 @@
         "url": "https://github.com/tensorflow/tensorflow",
         "score": 194584,
         "source": "GitHub",
-        "time": "2026-04-08T23:59:11Z"
+        "time": "2026-04-09T00:01:20Z"
       },
       {
         "title": "ohmyzsh/ohmyzsh",
@@ -236,35 +236,35 @@
         "url": "http://arxiv.org/abs/2604.06161v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-09T00:01:12.809Z"
+        "time": "2026-04-09T00:02:21.737Z"
       },
       {
         "title": "MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control",
         "url": "http://arxiv.org/abs/2604.06155v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-09T00:01:12.809Z"
+        "time": "2026-04-09T00:02:21.737Z"
       },
       {
         "title": "Who Governs the Machine? A Machine Identity Governance Taxonomy (MIGT) for AI Systems Operating Across Enterprise and Geopolitical Boundaries",
         "url": "http://arxiv.org/abs/2604.06138v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-09T00:01:12.809Z"
+        "time": "2026-04-09T00:02:21.737Z"
       },
       {
         "title": "Shot-Based Quantum Encoding: A Data-Loading Paradigm for Quantum Neural Networks",
         "url": "http://arxiv.org/abs/2604.06132v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-09T00:01:12.809Z"
+        "time": "2026-04-09T00:02:21.737Z"
       },
       {
         "title": "PoM: A Linear-Time Replacement for Attention with the Polynomial Mixer",
         "url": "http://arxiv.org/abs/2604.06126v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-09T00:01:12.809Z"
+        "time": "2026-04-09T00:02:21.737Z"
       }
     ]
   },
@@ -275,70 +275,70 @@
         "url": "https://www.coingecko.com/en/coins/bitcoin",
         "score": 1,
         "source": "CoinGecko",
-        "time": "2026-04-09T00:01:12.803Z"
+        "time": "2026-04-09T00:02:21.735Z"
       },
       {
         "title": "Fartcoin (FARTCOIN)",
         "url": "https://www.coingecko.com/en/coins/fartcoin",
-        "score": 168,
+        "score": 169,
         "source": "CoinGecko",
-        "time": "2026-04-09T00:01:12.804Z"
+        "time": "2026-04-09T00:02:21.735Z"
       },
       {
         "title": "Enjin Coin (ENJ)",
         "url": "https://www.coingecko.com/en/coins/enjincoin",
         "score": 417,
         "source": "CoinGecko",
-        "time": "2026-04-09T00:01:12.804Z"
+        "time": "2026-04-09T00:02:21.735Z"
       },
       {
         "title": "Monad (MON)",
         "url": "https://www.coingecko.com/en/coins/monad",
         "score": 122,
         "source": "CoinGecko",
-        "time": "2026-04-09T00:01:12.804Z"
-      },
-      {
-        "title": "Pudgy Penguins (PENGU)",
-        "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-        "score": 106,
-        "source": "CoinGecko",
-        "time": "2026-04-09T00:01:12.804Z"
+        "time": "2026-04-09T00:02:21.735Z"
       },
       {
         "title": "Hyperliquid (HYPE)",
         "url": "https://www.coingecko.com/en/coins/hyperliquid",
         "score": 15,
         "source": "CoinGecko",
-        "time": "2026-04-09T00:01:12.804Z"
+        "time": "2026-04-09T00:02:21.735Z"
       },
       {
         "title": "Sui (SUI)",
         "url": "https://www.coingecko.com/en/coins/sui",
         "score": 31,
         "source": "CoinGecko",
-        "time": "2026-04-09T00:01:12.804Z"
-      },
-      {
-        "title": "Plasma (XPL)",
-        "url": "https://www.coingecko.com/en/coins/plasma",
-        "score": 132,
-        "source": "CoinGecko",
-        "time": "2026-04-09T00:01:12.804Z"
+        "time": "2026-04-09T00:02:21.735Z"
       },
       {
         "title": "Solana (SOL)",
         "url": "https://www.coingecko.com/en/coins/solana",
         "score": 7,
         "source": "CoinGecko",
-        "time": "2026-04-09T00:01:12.804Z"
+        "time": "2026-04-09T00:02:21.735Z"
       },
       {
-        "title": "Ethereum (ETH)",
-        "url": "https://www.coingecko.com/en/coins/ethereum",
-        "score": 2,
+        "title": "Plasma (XPL)",
+        "url": "https://www.coingecko.com/en/coins/plasma",
+        "score": 132,
         "source": "CoinGecko",
-        "time": "2026-04-09T00:01:12.804Z"
+        "time": "2026-04-09T00:02:21.735Z"
+      },
+      {
+        "title": "Bittensor (TAO)",
+        "url": "https://www.coingecko.com/en/coins/bittensor",
+        "score": 33,
+        "source": "CoinGecko",
+        "time": "2026-04-09T00:02:21.735Z"
+      },
+      {
+        "title": "Pudgy Penguins (PENGU)",
+        "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+        "score": 106,
+        "source": "CoinGecko",
+        "time": "2026-04-09T00:02:21.735Z"
       }
     ],
     "reddit": [
@@ -352,63 +352,63 @@
       {
         "title": "Exclusive: Iran demands crypto fees for ships passing Hormuz during ceasefire",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sfwa5z/exclusive_iran_demands_crypto_fees_for_ships/",
-        "score": 481,
+        "score": 486,
         "source": "Reddit",
         "time": "2026-04-08T15:33:39.000Z"
       },
       {
         "title": "Iran demands crypto fees for ships passing Hormuz during ceasefire",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sfzlx9/iran_demands_crypto_fees_for_ships_passing_hormuz/",
-        "score": 83,
+        "score": 82,
         "source": "Reddit",
         "time": "2026-04-08T17:31:06.000Z"
       },
       {
         "title": "Polymarket Traders Net $663K on US-Iran Ceasefire in Suspected Insider Trade",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sfq0fu/polymarket_traders_net_663k_on_usiran_ceasefire/",
-        "score": 200,
+        "score": 197,
         "source": "Reddit",
         "time": "2026-04-08T11:23:19.000Z"
       },
       {
         "title": "Morgan Stanley launching its own spot Bitcoin ETF feels bigger than just another ETF headline",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sg3c5o/morgan_stanley_launching_its_own_spot_bitcoin_etf/",
-        "score": 38,
+        "score": 37,
         "source": "Reddit",
         "time": "2026-04-08T19:44:40.000Z"
       },
       {
         "title": "Iran eyes crypto toll for oil tanker transits through Strait of Hormuz",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sftkap/iran_eyes_crypto_toll_for_oil_tanker_transits/",
-        "score": 80,
+        "score": 79,
         "source": "Reddit",
         "time": "2026-04-08T13:55:35.000Z"
       },
       {
         "title": "Strategy Is Buying Bitcoin 2x Faster Than New BTC Supply In 2026",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sflcpi/strategy_is_buying_bitcoin_2x_faster_than_new_btc/",
-        "score": 205,
+        "score": 202,
         "source": "Reddit",
         "time": "2026-04-08T06:49:21.000Z"
       },
       {
         "title": "How The Trumps Blew $1 Billion On Bitcoin",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sftvwi/how_the_trumps_blew_1_billion_on_bitcoin/",
-        "score": 45,
+        "score": 44,
         "source": "Reddit",
         "time": "2026-04-08T14:07:29.000Z"
       },
       {
         "title": "Quantum Threat to Bitcoin Not Immediate, Says Blockstream’s Adam Back",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sfph7e/quantum_threat_to_bitcoin_not_immediate_says/",
-        "score": 46,
+        "score": 43,
         "source": "Reddit",
         "time": "2026-04-08T10:56:36.000Z"
       },
       {
         "title": "Polymarket Traders Accused of Insider Trading on US-Iran Bet",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sfnlnd/polymarket_traders_accused_of_insider_trading_on/",
-        "score": 59,
+        "score": 55,
         "source": "Reddit",
         "time": "2026-04-08T09:07:52.000Z"
       }
