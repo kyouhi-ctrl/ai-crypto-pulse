@@ -1,109 +1,109 @@
 {
-  "updatedAt": "2026-04-09T03:01:06.683Z",
+  "updatedAt": "2026-04-09T03:33:30.143Z",
   "ai": {
     "hackerNews": [
       {
         "title": "Git commands I run before reading any code",
         "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-        "score": 1840,
+        "score": 1854,
         "source": "Hacker News",
         "time": "2026-04-08T08:53:42.000Z"
       },
       {
         "title": "I ported Mac OS X to the Nintendo Wii",
         "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-        "score": 1300,
+        "score": 1327,
         "source": "Hacker News",
         "time": "2026-04-08T15:40:00.000Z"
       },
       {
         "title": "Veracrypt project update",
         "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-        "score": 1154,
+        "score": 1162,
         "source": "Hacker News",
         "time": "2026-04-08T07:23:39.000Z"
       },
       {
         "title": "US cities are axing Flock Safety surveillance technology",
         "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
-        "score": 644,
+        "score": 649,
         "source": "Hacker News",
         "time": "2026-04-08T12:26:14.000Z"
       },
       {
         "title": "Microsoft terminates VeraCrypt account, halting Windows updates",
         "url": "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
-        "score": 481,
+        "score": 491,
         "source": "Hacker News",
         "time": "2026-04-08T14:46:15.000Z"
       },
       {
         "title": "They're made out of meat (1991)",
         "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
-        "score": 425,
+        "score": 432,
         "source": "Hacker News",
         "time": "2026-04-08T11:20:50.000Z"
       },
       {
         "title": "ML promises to be profoundly weird",
         "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
-        "score": 401,
+        "score": 411,
         "source": "Hacker News",
         "time": "2026-04-08T13:06:33.000Z"
       },
       {
         "title": "Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
         "url": "https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html",
-        "score": 328,
+        "score": 340,
         "source": "Hacker News",
         "time": "2026-04-08T04:37:57.000Z"
       },
       {
         "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
         "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-        "score": 291,
+        "score": 299,
         "source": "Hacker News",
         "time": "2026-04-08T17:44:25.000Z"
       },
       {
-        "title": "Muse Spark: Scaling towards personal superintelligence",
-        "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-        "score": 286,
-        "source": "Hacker News",
-        "time": "2026-04-08T16:01:32.000Z"
-      },
-      {
         "title": "Show HN: Is Hormuz open yet?",
         "url": "https://www.ishormuzopenyet.com/",
-        "score": 275,
+        "score": 290,
         "source": "Hacker News",
         "time": "2026-04-08T21:33:06.000Z"
       },
       {
+        "title": "Muse Spark: Scaling towards personal superintelligence",
+        "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+        "score": 288,
+        "source": "Hacker News",
+        "time": "2026-04-08T16:01:32.000Z"
+      },
+      {
         "title": "Ask HN: Any interesting niche hobbies?",
         "url": "https://news.ycombinator.com/item?id=47654062",
-        "score": 273,
+        "score": 280,
         "source": "Hacker News",
         "time": "2026-04-05T21:30:19.000Z"
       },
       {
         "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
         "url": "https://arxiv.org/abs/2604.05091",
-        "score": 264,
+        "score": 265,
         "source": "Hacker News",
         "time": "2026-04-08T12:19:00.000Z"
       },
       {
         "title": "Understanding the Kalman filter with a simple radar example",
         "url": "https://kalmanfilter.net",
-        "score": 251,
+        "score": 255,
         "source": "Hacker News",
         "time": "2026-04-08T17:11:46.000Z"
       },
       {
         "title": "LittleSnitch for Linux",
         "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-        "score": 212,
+        "score": 250,
         "source": "Hacker News",
         "time": "2026-04-09T00:26:08.000Z"
       }
@@ -113,7 +113,7 @@
         "title": "sindresorhus/awesome",
         "description": "😎 Awesome lists about all kinds of interesting topics",
         "url": "https://github.com/sindresorhus/awesome",
-        "score": 453341,
+        "score": 453351,
         "source": "GitHub",
         "time": "2026-04-02T16:30:33Z"
       },
@@ -121,7 +121,7 @@
         "title": "freeCodeCamp/freeCodeCamp",
         "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
         "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-        "score": 442241,
+        "score": 442248,
         "source": "GitHub",
         "time": "2026-04-08T23:05:46Z"
       },
@@ -129,7 +129,7 @@
         "title": "EbookFoundation/free-programming-books",
         "description": ":books: Freely available programming books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
-        "score": 385211,
+        "score": 385209,
         "source": "GitHub",
         "time": "2026-04-07T19:54:45Z"
       },
@@ -145,15 +145,15 @@
         "title": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "score": 352399,
+        "score": 352434,
         "source": "GitHub",
-        "time": "2026-04-09T03:00:10Z"
+        "time": "2026-04-09T03:32:32Z"
       },
       {
         "title": "vinta/awesome-python",
         "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
         "url": "https://github.com/vinta/awesome-python",
-        "score": 291440,
+        "score": 291441,
         "source": "GitHub",
         "time": "2026-04-08T07:24:22Z"
       },
@@ -161,7 +161,7 @@
         "title": "awesome-selfhosted/awesome-selfhosted",
         "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-        "score": 284962,
+        "score": 284966,
         "source": "GitHub",
         "time": "2026-04-05T10:45:12Z"
       },
@@ -169,7 +169,7 @@
         "title": "facebook/react",
         "description": "The library for web and native user interfaces.",
         "url": "https://github.com/facebook/react",
-        "score": 244500,
+        "score": 244502,
         "source": "GitHub",
         "time": "2026-04-08T20:49:37Z"
       },
@@ -177,7 +177,7 @@
         "title": "torvalds/linux",
         "description": "Linux kernel source tree",
         "url": "https://github.com/torvalds/linux",
-        "score": 227602,
+        "score": 227603,
         "source": "GitHub",
         "time": "2026-04-08T20:54:04Z"
       },
@@ -185,7 +185,7 @@
         "title": "TheAlgorithms/Python",
         "description": "All Algorithms implemented in Python",
         "url": "https://github.com/TheAlgorithms/Python",
-        "score": 219420,
+        "score": 219419,
         "source": "GitHub",
         "time": "2026-04-06T21:03:33Z"
       },
@@ -193,15 +193,15 @@
         "title": "tensorflow/tensorflow",
         "description": "An Open Source Machine Learning Framework for Everyone",
         "url": "https://github.com/tensorflow/tensorflow",
-        "score": 194581,
+        "score": 194580,
         "source": "GitHub",
-        "time": "2026-04-09T02:56:10Z"
+        "time": "2026-04-09T03:25:09Z"
       },
       {
         "title": "ohmyzsh/ohmyzsh",
         "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
         "url": "https://github.com/ohmyzsh/ohmyzsh",
-        "score": 186053,
+        "score": 186054,
         "source": "GitHub",
         "time": "2026-04-07T10:25:32Z"
       },
@@ -209,23 +209,23 @@
         "title": "microsoft/vscode",
         "description": "Visual Studio Code",
         "url": "https://github.com/microsoft/vscode",
-        "score": 183592,
+        "score": 183594,
         "source": "GitHub",
-        "time": "2026-04-09T02:45:40Z"
+        "time": "2026-04-09T03:31:55Z"
       },
       {
         "title": "Significant-Gravitas/AutoGPT",
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "score": 183249,
+        "score": 183251,
         "source": "GitHub",
-        "time": "2026-04-09T02:58:42Z"
+        "time": "2026-04-09T03:04:58Z"
       },
       {
         "title": "n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "url": "https://github.com/n8n-io/n8n",
-        "score": 183074,
+        "score": 183082,
         "source": "GitHub",
         "time": "2026-04-09T02:41:06Z"
       }
@@ -236,181 +236,181 @@
         "url": "http://arxiv.org/abs/2604.07348v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-09T03:01:04.846Z"
+        "time": "2026-04-09T03:33:29.587Z"
       },
       {
         "title": "RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild",
         "url": "http://arxiv.org/abs/2604.07321v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-09T03:01:04.846Z"
+        "time": "2026-04-09T03:33:29.587Z"
       },
       {
         "title": "Evaluating In-Context Translation with Synchronous Context-Free Grammar Transduction",
         "url": "http://arxiv.org/abs/2604.07304v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-09T03:01:04.846Z"
+        "time": "2026-04-09T03:33:29.587Z"
       },
       {
         "title": "Region-Graph Optimal Transport Routing for Mixture-of-Experts Whole-Slide Image Classification",
         "url": "http://arxiv.org/abs/2604.07286v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-09T03:01:04.846Z"
+        "time": "2026-04-09T03:33:29.587Z"
       },
       {
         "title": "Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions",
         "url": "http://arxiv.org/abs/2604.07276v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-09T03:01:04.846Z"
+        "time": "2026-04-09T03:33:29.587Z"
       }
     ]
   },
   "crypto": {
     "coingecko": [
       {
-        "title": "Pudgy Penguins (PENGU)",
-        "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-        "score": 109,
-        "source": "CoinGecko",
-        "time": "2026-04-09T03:01:04.822Z"
-      },
-      {
         "title": "Enjin Coin (ENJ)",
         "url": "https://www.coingecko.com/en/coins/enjincoin",
-        "score": 387,
+        "score": 322,
         "source": "CoinGecko",
-        "time": "2026-04-09T03:01:04.823Z"
+        "time": "2026-04-09T03:33:29.579Z"
       },
       {
         "title": "Bitcoin (BTC)",
         "url": "https://www.coingecko.com/en/coins/bitcoin",
         "score": 1,
         "source": "CoinGecko",
-        "time": "2026-04-09T03:01:04.823Z"
+        "time": "2026-04-09T03:33:29.580Z"
       },
       {
-        "title": "Fartcoin (FARTCOIN)",
-        "url": "https://www.coingecko.com/en/coins/fartcoin",
-        "score": 172,
+        "title": "Monad (MON)",
+        "url": "https://www.coingecko.com/en/coins/monad",
+        "score": 128,
         "source": "CoinGecko",
-        "time": "2026-04-09T03:01:04.823Z"
+        "time": "2026-04-09T03:33:29.580Z"
       },
       {
         "title": "Pi Network (PI)",
         "url": "https://www.coingecko.com/en/coins/pi-network",
         "score": 49,
         "source": "CoinGecko",
-        "time": "2026-04-09T03:01:04.823Z"
+        "time": "2026-04-09T03:33:29.580Z"
       },
       {
-        "title": "edgeX (EDGE)",
-        "url": "https://www.coingecko.com/en/coins/edgex",
-        "score": 121,
+        "title": "Fartcoin (FARTCOIN)",
+        "url": "https://www.coingecko.com/en/coins/fartcoin",
+        "score": 176,
         "source": "CoinGecko",
-        "time": "2026-04-09T03:01:04.823Z"
+        "time": "2026-04-09T03:33:29.580Z"
       },
       {
-        "title": "Based (BASED)",
-        "url": "https://www.coingecko.com/en/coins/based-one",
-        "score": 967,
+        "title": "Pudgy Penguins (PENGU)",
+        "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+        "score": 109,
         "source": "CoinGecko",
-        "time": "2026-04-09T03:01:04.823Z"
+        "time": "2026-04-09T03:33:29.580Z"
       },
       {
-        "title": "Monad (MON)",
-        "url": "https://www.coingecko.com/en/coins/monad",
-        "score": 125,
+        "title": "Solana (SOL)",
+        "url": "https://www.coingecko.com/en/coins/solana",
+        "score": 7,
         "source": "CoinGecko",
-        "time": "2026-04-09T03:01:04.823Z"
+        "time": "2026-04-09T03:33:29.580Z"
       },
       {
-        "title": "NEAR Protocol (NEAR)",
-        "url": "https://www.coingecko.com/en/coins/near",
-        "score": 48,
+        "title": "Ethereum (ETH)",
+        "url": "https://www.coingecko.com/en/coins/ethereum",
+        "score": 2,
         "source": "CoinGecko",
-        "time": "2026-04-09T03:01:04.823Z"
+        "time": "2026-04-09T03:33:29.580Z"
       },
       {
-        "title": "Sui (SUI)",
-        "url": "https://www.coingecko.com/en/coins/sui",
-        "score": 31,
+        "title": "Zcash (ZEC)",
+        "url": "https://www.coingecko.com/en/coins/zcash",
+        "score": 21,
         "source": "CoinGecko",
-        "time": "2026-04-09T03:01:04.823Z"
+        "time": "2026-04-09T03:33:29.580Z"
+      },
+      {
+        "title": "Bittensor (TAO)",
+        "url": "https://www.coingecko.com/en/coins/bittensor",
+        "score": 33,
+        "source": "CoinGecko",
+        "time": "2026-04-09T03:33:29.580Z"
       }
     ],
     "reddit": [
       {
         "title": "Daily Crypto Discussion - April 7, 2026 (GMT+0)",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sfbmxf/daily_crypto_discussion_april_7_2026_gmt0/",
-        "score": 16,
+        "score": 18,
         "source": "Reddit",
         "time": "2026-04-07T23:00:30.000Z"
       },
       {
+        "title": "Iran To Earn 282 BTC Per Day From Straight Of Hormuz Toll: More Than 50% Of The Supply",
+        "url": "https://reddit.com/r/CryptoCurrency/comments/1sgdfjg/iran_to_earn_282_btc_per_day_from_straight_of/",
+        "score": 106,
+        "source": "Reddit",
+        "time": "2026-04-09T02:44:36.000Z"
+      },
+      {
         "title": "Exclusive: Iran demands crypto fees for ships passing Hormuz during ceasefire",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sfwa5z/exclusive_iran_demands_crypto_fees_for_ships/",
-        "score": 573,
+        "score": 591,
         "source": "Reddit",
         "time": "2026-04-08T15:33:39.000Z"
       },
       {
         "title": "Iran Eyes Bitcoin Toll for Strait of Hormuz Oil Transit",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sgb9jh/iran_eyes_bitcoin_toll_for_strait_of_hormuz_oil/",
-        "score": 32,
+        "score": 34,
         "source": "Reddit",
         "time": "2026-04-09T01:05:30.000Z"
       },
       {
         "title": "Bitcoin’s rebound may be fragile as Wall Street warns Hormuz disruption is not really over",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sga43e/bitcoins_rebound_may_be_fragile_as_wall_street/",
-        "score": 30,
+        "score": 32,
         "source": "Reddit",
         "time": "2026-04-09T00:13:50.000Z"
       },
       {
         "title": "Iran demands crypto fees for ships passing Hormuz during ceasefire",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sfzlx9/iran_demands_crypto_fees_for_ships_passing_hormuz/",
-        "score": 105,
+        "score": 103,
         "source": "Reddit",
         "time": "2026-04-08T17:31:06.000Z"
       },
       {
         "title": "Morgan Stanley launching its own spot Bitcoin ETF feels bigger than just another ETF headline",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sg3c5o/morgan_stanley_launching_its_own_spot_bitcoin_etf/",
-        "score": 60,
+        "score": 63,
         "source": "Reddit",
         "time": "2026-04-08T19:44:40.000Z"
       },
       {
         "title": "Polymarket Traders Net $663K on US-Iran Ceasefire in Suspected Insider Trade",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sfq0fu/polymarket_traders_net_663k_on_usiran_ceasefire/",
-        "score": 241,
+        "score": 243,
         "source": "Reddit",
         "time": "2026-04-08T11:23:19.000Z"
       },
       {
         "title": "Iran eyes crypto toll for oil tanker transits through Strait of Hormuz",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sftkap/iran_eyes_crypto_toll_for_oil_tanker_transits/",
-        "score": 88,
+        "score": 84,
         "source": "Reddit",
         "time": "2026-04-08T13:55:35.000Z"
       },
       {
-        "title": "Iran To Earn 282 BTC Per Day From Straight Of Hormuz Toll: More Than 50% Of The Supply",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1sgdfjg/iran_to_earn_282_btc_per_day_from_straight_of/",
-        "score": 6,
+        "title": "Morgan Stanley’s bitcoin ETF draws $33.9 million on day one",
+        "url": "https://reddit.com/r/CryptoCurrency/comments/1sg9nqe/morgan_stanleys_bitcoin_etf_draws_339_million_on/",
+        "score": 11,
         "source": "Reddit",
-        "time": "2026-04-09T02:44:36.000Z"
-      },
-      {
-        "title": "Strategy Is Buying Bitcoin 2x Faster Than New BTC Supply In 2026",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1sflcpi/strategy_is_buying_bitcoin_2x_faster_than_new_btc/",
-        "score": 213,
-        "source": "Reddit",
-        "time": "2026-04-08T06:49:21.000Z"
+        "time": "2026-04-08T23:54:06.000Z"
       }
     ]
   }
