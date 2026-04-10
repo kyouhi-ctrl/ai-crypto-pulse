@@ -1,109 +1,109 @@
 {
-  "updatedAt": "2026-04-10T04:34:31.649Z",
+  "updatedAt": "2026-04-10T05:04:35.133Z",
   "ai": {
     "hackerNews": [
       {
         "title": "LittleSnitch for Linux",
         "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-        "score": 1285,
+        "score": 1289,
         "source": "Hacker News",
         "time": "2026-04-09T00:26:08.000Z"
       },
       {
         "title": "EFF is leaving X",
         "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
-        "score": 1211,
+        "score": 1228,
         "source": "Hacker News",
         "time": "2026-04-09T17:08:04.000Z"
       },
       {
         "title": "Native Instant Space Switching on macOS",
         "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-        "score": 377,
+        "score": 386,
         "source": "Hacker News",
         "time": "2026-04-09T19:48:26.000Z"
       },
       {
         "title": "Microsoft is employing dark patterns to goad users into paying for storage?",
         "url": "https://lzon.ca/posts/other/microsoft-user-abuse/",
-        "score": 261,
+        "score": 273,
         "source": "Hacker News",
         "time": "2026-04-09T21:09:12.000Z"
       },
       {
         "title": "Haunted Paper Toys",
         "url": "http://ravensblight.com/papertoys.html",
-        "score": 234,
+        "score": 237,
         "source": "Hacker News",
         "time": "2026-04-06T10:09:00.000Z"
       },
       {
         "title": "Old laptops in a colo as low cost servers",
         "url": "https://colaptop.pages.dev/",
-        "score": 181,
+        "score": 187,
         "source": "Hacker News",
         "time": "2026-04-09T18:22:39.000Z"
       },
       {
-        "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
-        "url": "https://www.unfolder.app/",
-        "score": 170,
-        "source": "Hacker News",
-        "time": "2026-04-09T16:58:46.000Z"
-      },
-      {
         "title": "How NASA built Artemis II’s fault-tolerant computer",
         "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-        "score": 169,
+        "score": 183,
         "source": "Hacker News",
         "time": "2026-04-09T15:12:40.000Z"
       },
       {
+        "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
+        "url": "https://www.unfolder.app/",
+        "score": 176,
+        "source": "Hacker News",
+        "time": "2026-04-09T16:58:46.000Z"
+      },
+      {
         "title": "Charcuterie – Visual similarity Unicode explorer",
         "url": "https://charcuterie.elastiq.ch/",
-        "score": 168,
+        "score": 172,
         "source": "Hacker News",
         "time": "2026-04-09T20:12:07.000Z"
       },
       {
-        "title": "PicoZ80 – Drop-In Z80 Replacement",
-        "url": "https://eaw.app/picoz80/",
-        "score": 165,
-        "source": "Hacker News",
-        "time": "2026-04-09T18:53:20.000Z"
-      },
-      {
         "title": "Many African families spend fortunes burying their dead",
         "url": "https://davidoks.blog/p/how-funerals-keep-africa-poor",
-        "score": 160,
+        "score": 170,
         "source": "Hacker News",
         "time": "2026-04-09T22:10:10.000Z"
       },
       {
+        "title": "PicoZ80 – Drop-In Z80 Replacement",
+        "url": "https://eaw.app/picoz80/",
+        "score": 168,
+        "source": "Hacker News",
+        "time": "2026-04-09T18:53:20.000Z"
+      },
+      {
         "title": "Research-Driven Agents: When an agent reads before it codes",
         "url": "https://blog.skypilot.co/research-driven-agents/",
-        "score": 150,
+        "score": 152,
         "source": "Hacker News",
         "time": "2026-04-09T16:58:49.000Z"
       },
       {
         "title": "A WebGPU implementation of Augmented Vertex Block Descent",
         "url": "https://github.com/jure/webphysics",
-        "score": 132,
+        "score": 134,
         "source": "Hacker News",
         "time": "2026-04-09T12:01:31.000Z"
       },
       {
         "title": "Show HN: I built a Cargo-like build tool for C/C++",
         "url": "https://github.com/randerson112/craft",
-        "score": 130,
+        "score": 133,
         "source": "Hacker News",
         "time": "2026-04-09T16:04:54.000Z"
       },
       {
         "title": "Reverse engineering Gemini's SynthID detection",
         "url": "https://github.com/aloshdenny/reverse-SynthID",
-        "score": 123,
+        "score": 125,
         "source": "Hacker News",
         "time": "2026-04-09T20:10:25.000Z"
       }
@@ -113,7 +113,7 @@
         "title": "sindresorhus/awesome",
         "description": "😎 Awesome lists about all kinds of interesting topics",
         "url": "https://github.com/sindresorhus/awesome",
-        "score": 453684,
+        "score": 453691,
         "source": "GitHub",
         "time": "2026-04-02T16:30:33Z"
       },
@@ -121,7 +121,7 @@
         "title": "freeCodeCamp/freeCodeCamp",
         "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
         "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-        "score": 442416,
+        "score": 442419,
         "source": "GitHub",
         "time": "2026-04-09T19:55:05Z"
       },
@@ -129,7 +129,7 @@
         "title": "EbookFoundation/free-programming-books",
         "description": ":books: Freely available programming books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
-        "score": 385267,
+        "score": 385271,
         "source": "GitHub",
         "time": "2026-04-07T19:54:45Z"
       },
@@ -137,15 +137,15 @@
         "title": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "score": 353487,
+        "score": 353497,
         "source": "GitHub",
-        "time": "2026-04-10T04:31:05Z"
+        "time": "2026-04-10T05:01:56Z"
       },
       {
         "title": "kamranahmedse/developer-roadmap",
         "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
         "url": "https://github.com/kamranahmedse/developer-roadmap",
-        "score": 352622,
+        "score": 352623,
         "source": "GitHub",
         "time": "2026-04-09T07:51:30Z"
       },
@@ -153,7 +153,7 @@
         "title": "vinta/awesome-python",
         "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
         "url": "https://github.com/vinta/awesome-python",
-        "score": 291566,
+        "score": 291570,
         "source": "GitHub",
         "time": "2026-04-09T13:36:28Z"
       },
@@ -161,7 +161,7 @@
         "title": "awesome-selfhosted/awesome-selfhosted",
         "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-        "score": 285139,
+        "score": 285142,
         "source": "GitHub",
         "time": "2026-04-09T20:32:27Z"
       },
@@ -177,7 +177,7 @@
         "title": "torvalds/linux",
         "description": "Linux kernel source tree",
         "url": "https://github.com/torvalds/linux",
-        "score": 227772,
+        "score": 227775,
         "source": "GitHub",
         "time": "2026-04-09T23:52:35Z"
       },
@@ -185,7 +185,7 @@
         "title": "TheAlgorithms/Python",
         "description": "All Algorithms implemented in Python",
         "url": "https://github.com/TheAlgorithms/Python",
-        "score": 219463,
+        "score": 219464,
         "source": "GitHub",
         "time": "2026-04-06T21:03:33Z"
       },
@@ -193,15 +193,15 @@
         "title": "tensorflow/tensorflow",
         "description": "An Open Source Machine Learning Framework for Everyone",
         "url": "https://github.com/tensorflow/tensorflow",
-        "score": 194622,
+        "score": 194623,
         "source": "GitHub",
-        "time": "2026-04-10T04:33:04Z"
+        "time": "2026-04-10T05:03:00Z"
       },
       {
         "title": "ohmyzsh/ohmyzsh",
         "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
         "url": "https://github.com/ohmyzsh/ohmyzsh",
-        "score": 186061,
+        "score": 186062,
         "source": "GitHub",
         "time": "2026-04-07T10:25:32Z"
       },
@@ -211,21 +211,21 @@
         "url": "https://github.com/microsoft/vscode",
         "score": 183650,
         "source": "GitHub",
-        "time": "2026-04-10T04:34:09Z"
+        "time": "2026-04-10T04:56:38Z"
       },
       {
         "title": "n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "url": "https://github.com/n8n-io/n8n",
-        "score": 183328,
+        "score": 183336,
         "source": "GitHub",
-        "time": "2026-04-10T04:34:04Z"
+        "time": "2026-04-10T04:45:31Z"
       },
       {
         "title": "Significant-Gravitas/AutoGPT",
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "score": 183282,
+        "score": 183283,
         "source": "GitHub",
         "time": "2026-04-10T02:56:23Z"
       }
@@ -236,35 +236,35 @@
         "url": "http://arxiv.org/abs/2604.08544v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-10T04:34:29.843Z"
+        "time": "2026-04-10T05:04:34.571Z"
       },
       {
         "title": "Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts",
         "url": "http://arxiv.org/abs/2604.08540v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-10T04:34:29.843Z"
+        "time": "2026-04-10T05:04:34.571Z"
       },
       {
         "title": "OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks",
         "url": "http://arxiv.org/abs/2604.08536v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-10T04:34:29.844Z"
+        "time": "2026-04-10T05:04:34.571Z"
       },
       {
         "title": "PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents",
         "url": "http://arxiv.org/abs/2604.08525v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-10T04:34:29.844Z"
+        "time": "2026-04-10T05:04:34.571Z"
       },
       {
         "title": "What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal",
         "url": "http://arxiv.org/abs/2604.08523v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-10T04:34:29.844Z"
+        "time": "2026-04-10T05:04:34.571Z"
       }
     ]
   },
@@ -275,133 +275,133 @@
         "url": "https://www.coingecko.com/en/coins/bittensor",
         "score": 38,
         "source": "CoinGecko",
-        "time": "2026-04-10T04:34:29.651Z"
+        "time": "2026-04-10T05:04:34.561Z"
       },
       {
         "title": "RaveDAO (RAVE)",
         "url": "https://www.coingecko.com/en/coins/ravedao",
-        "score": 156,
+        "score": 155,
         "source": "CoinGecko",
-        "time": "2026-04-10T04:34:29.652Z"
+        "time": "2026-04-10T05:04:34.562Z"
       },
       {
         "title": "Monad (MON)",
         "url": "https://www.coingecko.com/en/coins/monad",
-        "score": 116,
+        "score": 114,
         "source": "CoinGecko",
-        "time": "2026-04-10T04:34:29.652Z"
-      },
-      {
-        "title": "Pudgy Penguins (PENGU)",
-        "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-        "score": 108,
-        "source": "CoinGecko",
-        "time": "2026-04-10T04:34:29.652Z"
-      },
-      {
-        "title": "Siren (SIREN)",
-        "url": "https://www.coingecko.com/en/coins/siren-2",
-        "score": 100,
-        "source": "CoinGecko",
-        "time": "2026-04-10T04:34:29.652Z"
+        "time": "2026-04-10T05:04:34.562Z"
       },
       {
         "title": "Zcash (ZEC)",
         "url": "https://www.coingecko.com/en/coins/zcash",
         "score": 19,
         "source": "CoinGecko",
-        "time": "2026-04-10T04:34:29.652Z"
+        "time": "2026-04-10T05:04:34.562Z"
       },
       {
         "title": "τemplar (SN3)",
         "url": "https://www.coingecko.com/en/coins/templar",
-        "score": 528,
+        "score": 534,
         "source": "CoinGecko",
-        "time": "2026-04-10T04:34:29.652Z"
+        "time": "2026-04-10T05:04:34.562Z"
+      },
+      {
+        "title": "Pudgy Penguins (PENGU)",
+        "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+        "score": 108,
+        "source": "CoinGecko",
+        "time": "2026-04-10T05:04:34.562Z"
       },
       {
         "title": "Bitcoin (BTC)",
         "url": "https://www.coingecko.com/en/coins/bitcoin",
         "score": 1,
         "source": "CoinGecko",
-        "time": "2026-04-10T04:34:29.652Z"
+        "time": "2026-04-10T05:04:34.562Z"
       },
       {
-        "title": "Dash (DASH)",
-        "url": "https://www.coingecko.com/en/coins/dash",
-        "score": 104,
+        "title": "Siren (SIREN)",
+        "url": "https://www.coingecko.com/en/coins/siren-2",
+        "score": 100,
         "source": "CoinGecko",
-        "time": "2026-04-10T04:34:29.652Z"
+        "time": "2026-04-10T05:04:34.562Z"
       },
       {
         "title": "Ethereum (ETH)",
         "url": "https://www.coingecko.com/en/coins/ethereum",
         "score": 2,
         "source": "CoinGecko",
-        "time": "2026-04-10T04:34:29.652Z"
+        "time": "2026-04-10T05:04:34.562Z"
+      },
+      {
+        "title": "Sui (SUI)",
+        "url": "https://www.coingecko.com/en/coins/sui",
+        "score": 31,
+        "source": "CoinGecko",
+        "time": "2026-04-10T05:04:34.562Z"
       }
     ],
     "reddit": [
       {
         "title": "Daily Crypto Discussion - April 7, 2026 (GMT+0)",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sfbmxf/daily_crypto_discussion_april_7_2026_gmt0/",
-        "score": 19,
+        "score": 18,
         "source": "Reddit",
         "time": "2026-04-07T23:00:30.000Z"
       },
       {
         "title": "He stole 120,000 Bitcoins and outran the feds for 6 years, only to get caught by a single fucking Dropbox file 😅",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sgw9ek/he_stole_120000_bitcoins_and_outran_the_feds_for/",
-        "score": 390,
+        "score": 401,
         "source": "Reddit",
         "time": "2026-04-09T17:28:30.000Z"
       },
       {
         "title": "community-point",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sh94w4/communitypoint/",
-        "score": 71,
+        "score": 83,
         "source": "Reddit",
         "time": "2026-04-10T01:52:16.000Z"
       },
       {
         "title": "Bitcoin Devs Reveal New Quantum Resistant Wallet",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sh39kr/bitcoin_devs_reveal_new_quantum_resistant_wallet/",
-        "score": 144,
+        "score": 145,
         "source": "Reddit",
         "time": "2026-04-09T21:41:45.000Z"
       },
       {
         "title": "Iran To Earn 282 BTC Per Day From Straight Of Hormuz Toll: More Than 50% Of The Supply",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sgdfjg/iran_to_earn_282_btc_per_day_from_straight_of/",
-        "score": 2105,
+        "score": 2111,
         "source": "Reddit",
         "time": "2026-04-09T02:44:36.000Z"
       },
       {
         "title": "China using cryptocurrency to pay for fees through Strait of Hormuz",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sh0d1p/china_using_cryptocurrency_to_pay_for_fees/",
-        "score": 75,
+        "score": 85,
         "source": "Reddit",
         "time": "2026-04-09T19:53:31.000Z"
       },
       {
-        "title": "Japan Cuts Crypto Taxes from 55% Progressive Tax to a 20% Flat Tax Rate",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1sgmc2e/japan_cuts_crypto_taxes_from_55_progressive_tax/",
-        "score": 359,
-        "source": "Reddit",
-        "time": "2026-04-09T10:58:03.000Z"
-      },
-      {
         "title": "[POLL] Should MOON project migrate to ETH mainnet?",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sh9oni/poll_should_moon_project_migrate_to_eth_mainnet/",
-        "score": 20,
+        "score": 23,
         "source": "Reddit",
         "time": "2026-04-10T02:16:40.000Z"
       },
       {
+        "title": "Japan Cuts Crypto Taxes from 55% Progressive Tax to a 20% Flat Tax Rate",
+        "url": "https://reddit.com/r/CryptoCurrency/comments/1sgmc2e/japan_cuts_crypto_taxes_from_55_progressive_tax/",
+        "score": 354,
+        "source": "Reddit",
+        "time": "2026-04-09T10:58:03.000Z"
+      },
+      {
         "title": "[GIVEAWAY] 1 Large Pizza",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sh9ba3/giveaway_1_large_pizza/",
-        "score": 12,
+        "score": 17,
         "source": "Reddit",
         "time": "2026-04-10T02:00:23.000Z"
       },
