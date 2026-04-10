@@ -1,111 +1,111 @@
 {
-  "updatedAt": "2026-04-10T23:01:21.525Z",
+  "updatedAt": "2026-04-10T23:31:25.540Z",
   "ai": {
     "hackerNews": [
       {
         "title": "1D Chess",
         "url": "https://rowan441.github.io/1dchess/chess.html",
-        "score": 587,
+        "score": 602,
         "source": "Hacker News",
         "time": "2026-04-10T15:37:28.000Z"
       },
       {
         "title": "You can't trust macOS Privacy and Security settings",
         "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-        "score": 400,
+        "score": 408,
         "source": "Hacker News",
         "time": "2026-04-10T15:28:24.000Z"
       },
       {
         "title": "WireGuard makes new Windows release following Microsoft signing resolution",
         "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-        "score": 364,
+        "score": 371,
         "source": "Hacker News",
         "time": "2026-04-10T15:49:52.000Z"
       },
       {
         "title": "Industrial design files for Keychron keyboards and mice",
         "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-        "score": 250,
+        "score": 263,
         "source": "Hacker News",
         "time": "2026-04-10T16:22:26.000Z"
       },
       {
         "title": "CPU-Z and HWMonitor compromised",
         "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
-        "score": 227,
+        "score": 234,
         "source": "Hacker News",
         "time": "2026-04-10T13:29:20.000Z"
       },
       {
         "title": "Helium Is Hard to Replace",
         "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
-        "score": 221,
+        "score": 229,
         "source": "Hacker News",
         "time": "2026-04-10T15:06:51.000Z"
       },
       {
         "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
         "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-        "score": 171,
+        "score": 181,
         "source": "Hacker News",
         "time": "2026-04-10T19:10:22.000Z"
       },
       {
-        "title": "A compelling title that is cryptic enough to get you to take action on it",
-        "url": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
-        "score": 143,
-        "source": "Hacker News",
-        "time": "2026-04-10T16:53:55.000Z"
-      },
-      {
         "title": "Molotov cocktail is hurled at home of Sam Altman",
         "url": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
-        "score": 137,
+        "score": 149,
         "source": "Hacker News",
         "time": "2026-04-10T18:48:24.000Z"
       },
       {
-        "title": "Bluesky April 2026 Outage Post-Mortem",
-        "url": "https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2",
-        "score": 123,
+        "title": "Filing the Corners Off MacBooks",
+        "url": "https://kentwalters.com/posts/corners/",
+        "score": 136,
         "source": "Hacker News",
-        "time": "2026-04-10T15:51:41.000Z"
+        "time": "2026-04-10T22:16:40.000Z"
       },
       {
         "title": "AI assistance when contributing to the Linux kernel",
         "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-        "score": 115,
+        "score": 126,
         "source": "Hacker News",
         "time": "2026-04-10T18:35:21.000Z"
       },
       {
-        "title": "Clojure on Fennel Part One: Persistent Data Structures",
-        "url": "https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/",
-        "score": 113,
+        "title": "Bluesky April 2026 Outage Post-Mortem",
+        "url": "https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2",
+        "score": 125,
         "source": "Hacker News",
-        "time": "2026-04-07T02:09:45.000Z"
+        "time": "2026-04-10T15:51:41.000Z"
       },
       {
         "title": "JSON Formatter Chrome Plugin Now Closed and Injecting Adware",
         "url": "https://github.com/callumlocke/json-formatter",
-        "score": 112,
+        "score": 119,
         "source": "Hacker News",
         "time": "2026-04-10T18:34:55.000Z"
       },
       {
-        "title": "Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]",
-        "url": "https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf",
-        "score": 96,
+        "title": "Clojure on Fennel Part One: Persistent Data Structures",
+        "url": "https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/",
+        "score": 116,
         "source": "Hacker News",
-        "time": "2026-04-07T14:41:08.000Z"
+        "time": "2026-04-07T02:09:45.000Z"
       },
       {
         "title": "Show HN: FluidCAD – Parametric CAD with JavaScript",
         "url": "https://fluidcad.io/",
-        "score": 88,
+        "score": 93,
         "source": "Hacker News",
         "time": "2026-04-10T18:39:19.000Z"
+      },
+      {
+        "title": "Nowhere Is Safe",
+        "url": "https://steveblank.com/2026/04/09/nowhere-is-safe/",
+        "score": 88,
+        "source": "Hacker News",
+        "time": "2026-04-10T19:27:58.000Z"
       }
     ],
     "github": [
@@ -129,7 +129,7 @@
         "title": "EbookFoundation/free-programming-books",
         "description": ":books: Freely available programming books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
-        "score": 385301,
+        "score": 385303,
         "source": "GitHub",
         "time": "2026-04-07T19:54:45Z"
       },
@@ -137,15 +137,15 @@
         "title": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "score": 354142,
+        "score": 354158,
         "source": "GitHub",
-        "time": "2026-04-10T23:01:08Z"
+        "time": "2026-04-10T23:30:36Z"
       },
       {
         "title": "kamranahmedse/developer-roadmap",
         "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
         "url": "https://github.com/kamranahmedse/developer-roadmap",
-        "score": 352654,
+        "score": 352656,
         "source": "GitHub",
         "time": "2026-04-10T13:47:00Z"
       },
@@ -153,7 +153,7 @@
         "title": "vinta/awesome-python",
         "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
         "url": "https://github.com/vinta/awesome-python",
-        "score": 291608,
+        "score": 291612,
         "source": "GitHub",
         "time": "2026-04-09T13:36:28Z"
       },
@@ -161,7 +161,7 @@
         "title": "awesome-selfhosted/awesome-selfhosted",
         "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-        "score": 285237,
+        "score": 285238,
         "source": "GitHub",
         "time": "2026-04-09T20:32:27Z"
       },
@@ -177,7 +177,7 @@
         "title": "torvalds/linux",
         "description": "Linux kernel source tree",
         "url": "https://github.com/torvalds/linux",
-        "score": 227880,
+        "score": 227883,
         "source": "GitHub",
         "time": "2026-04-10T16:44:51Z"
       },
@@ -185,7 +185,7 @@
         "title": "TheAlgorithms/Python",
         "description": "All Algorithms implemented in Python",
         "url": "https://github.com/TheAlgorithms/Python",
-        "score": 219482,
+        "score": 219483,
         "source": "GitHub",
         "time": "2026-04-10T22:07:39Z"
       },
@@ -195,7 +195,7 @@
         "url": "https://github.com/tensorflow/tensorflow",
         "score": 194625,
         "source": "GitHub",
-        "time": "2026-04-10T22:59:34Z"
+        "time": "2026-04-10T23:27:45Z"
       },
       {
         "title": "ohmyzsh/ohmyzsh",
@@ -209,9 +209,9 @@
         "title": "microsoft/vscode",
         "description": "Visual Studio Code",
         "url": "https://github.com/microsoft/vscode",
-        "score": 183683,
+        "score": 183684,
         "source": "GitHub",
-        "time": "2026-04-10T22:57:07Z"
+        "time": "2026-04-10T23:08:29Z"
       },
       {
         "title": "n8n-io/n8n",
@@ -219,15 +219,15 @@
         "url": "https://github.com/n8n-io/n8n",
         "score": 183465,
         "source": "GitHub",
-        "time": "2026-04-10T19:26:06Z"
+        "time": "2026-04-10T23:22:57Z"
       },
       {
         "title": "Significant-Gravitas/AutoGPT",
         "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "score": 183301,
+        "score": 183300,
         "source": "GitHub",
-        "time": "2026-04-10T19:57:34Z"
+        "time": "2026-04-10T23:04:44Z"
       }
     ],
     "arxiv": [
@@ -236,35 +236,35 @@
         "url": "http://arxiv.org/abs/2604.08544v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-10T23:01:19.755Z"
+        "time": "2026-04-10T23:31:24.987Z"
       },
       {
         "title": "Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts",
         "url": "http://arxiv.org/abs/2604.08540v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-10T23:01:19.756Z"
+        "time": "2026-04-10T23:31:24.987Z"
       },
       {
         "title": "OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks",
         "url": "http://arxiv.org/abs/2604.08536v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-10T23:01:19.756Z"
+        "time": "2026-04-10T23:31:24.987Z"
       },
       {
         "title": "PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents",
         "url": "http://arxiv.org/abs/2604.08525v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-10T23:01:19.756Z"
+        "time": "2026-04-10T23:31:24.987Z"
       },
       {
         "title": "What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal",
         "url": "http://arxiv.org/abs/2604.08523v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-10T23:01:19.756Z"
+        "time": "2026-04-10T23:31:24.987Z"
       }
     ]
   },
@@ -275,119 +275,119 @@
         "url": "https://www.coingecko.com/en/coins/bittensor",
         "score": 38,
         "source": "CoinGecko",
-        "time": "2026-04-10T23:01:21.525Z"
+        "time": "2026-04-10T23:31:24.811Z"
       },
       {
         "title": "RaveDAO (RAVE)",
         "url": "https://www.coingecko.com/en/coins/ravedao",
         "score": 118,
         "source": "CoinGecko",
-        "time": "2026-04-10T23:01:21.525Z"
-      },
-      {
-        "title": "World Liberty Financial (WLFI)",
-        "url": "https://www.coingecko.com/en/coins/world-liberty-financial",
-        "score": 37,
-        "source": "CoinGecko",
-        "time": "2026-04-10T23:01:21.525Z"
-      },
-      {
-        "title": "Falcon Finance (FF)",
-        "url": "https://www.coingecko.com/en/coins/falcon-finance-ff",
-        "score": 149,
-        "source": "CoinGecko",
-        "time": "2026-04-10T23:01:21.525Z"
+        "time": "2026-04-10T23:31:24.812Z"
       },
       {
         "title": "Monad (MON)",
         "url": "https://www.coingecko.com/en/coins/monad",
         "score": 117,
         "source": "CoinGecko",
-        "time": "2026-04-10T23:01:21.525Z"
+        "time": "2026-04-10T23:31:24.812Z"
+      },
+      {
+        "title": "Falcon Finance (FF)",
+        "url": "https://www.coingecko.com/en/coins/falcon-finance-ff",
+        "score": 153,
+        "source": "CoinGecko",
+        "time": "2026-04-10T23:31:24.812Z"
+      },
+      {
+        "title": "Pudgy Penguins (PENGU)",
+        "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+        "score": 108,
+        "source": "CoinGecko",
+        "time": "2026-04-10T23:31:24.812Z"
+      },
+      {
+        "title": "World Liberty Financial (WLFI)",
+        "url": "https://www.coingecko.com/en/coins/world-liberty-financial",
+        "score": 37,
+        "source": "CoinGecko",
+        "time": "2026-04-10T23:31:24.812Z"
       },
       {
         "title": "Bitcoin (BTC)",
         "url": "https://www.coingecko.com/en/coins/bitcoin",
         "score": 1,
         "source": "CoinGecko",
-        "time": "2026-04-10T23:01:21.525Z"
-      },
-      {
-        "title": "Artificial Superintelligence Alliance (FET)",
-        "url": "https://www.coingecko.com/en/coins/fetch-ai",
-        "score": 98,
-        "source": "CoinGecko",
-        "time": "2026-04-10T23:01:21.525Z"
+        "time": "2026-04-10T23:31:24.812Z"
       },
       {
         "title": "Hyperliquid (HYPE)",
         "url": "https://www.coingecko.com/en/coins/hyperliquid",
         "score": 13,
         "source": "CoinGecko",
-        "time": "2026-04-10T23:01:21.525Z"
+        "time": "2026-04-10T23:31:24.812Z"
       },
       {
-        "title": "Dash (DASH)",
-        "url": "https://www.coingecko.com/en/coins/dash",
-        "score": 96,
+        "title": "Core (CORE)",
+        "url": "https://www.coingecko.com/en/coins/coredaoorg",
+        "score": 637,
         "source": "CoinGecko",
-        "time": "2026-04-10T23:01:21.525Z"
+        "time": "2026-04-10T23:31:24.812Z"
       },
       {
-        "title": "Siren (SIREN)",
-        "url": "https://www.coingecko.com/en/coins/siren-2",
-        "score": 100,
+        "title": "TROLL (TROLL)",
+        "url": "https://www.coingecko.com/en/coins/troll-2",
+        "score": 841,
         "source": "CoinGecko",
-        "time": "2026-04-10T23:01:21.525Z"
+        "time": "2026-04-10T23:31:24.812Z"
       }
     ],
     "reddit": [
       {
         "title": "community-point",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sh94w4/communitypoint/",
-        "score": 204,
+        "score": 202,
         "source": "Reddit",
         "time": "2026-04-10T01:52:16.000Z"
       },
       {
         "title": "Daily Crypto Discussion - April 7, 2026 (GMT+0)",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sfbmxf/daily_crypto_discussion_april_7_2026_gmt0/",
-        "score": 18,
+        "score": 20,
         "source": "Reddit",
         "time": "2026-04-07T23:00:30.000Z"
       },
       {
         "title": "Trump's Crypto Project Just Borrowed $50 Million Against Its Own Token and Broke the Lending Pool",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1shqpgh/trumps_crypto_project_just_borrowed_50_million/",
-        "score": 363,
+        "score": 386,
         "source": "Reddit",
         "time": "2026-04-10T16:00:18.000Z"
       },
       {
         "title": "France pulls all gold out of US Federal Reserve",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1shde6i/france_pulls_all_gold_out_of_us_federal_reserve/",
-        "score": 2229,
+        "score": 2273,
         "source": "Reddit",
         "time": "2026-04-10T05:20:44.000Z"
       },
       {
         "title": "Japan Passes Bill Reclassifying Crypto as Financial Instruments",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1shqgfh/japan_passes_bill_reclassifying_crypto_as/",
-        "score": 117,
+        "score": 120,
         "source": "Reddit",
         "time": "2026-04-10T15:51:34.000Z"
       },
       {
         "title": "A solo miner with just 70 TH/s, defies odds to mine Bitcoin block 944,306 and earn 3.128 BTC.",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1shcyy3/a_solo_miner_with_just_70_ths_defies_odds_to_mine/",
-        "score": 736,
+        "score": 755,
         "source": "Reddit",
         "time": "2026-04-10T04:57:54.000Z"
       },
       {
         "title": "Coinbase CEO Backs US Treasury Secretary‘s Push to pass CLARITY Act",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1shxyil/coinbase_ceo_backs_us_treasury_secretarys_push_to/",
-        "score": 37,
+        "score": 41,
         "source": "Reddit",
         "time": "2026-04-10T20:18:44.000Z"
       },
@@ -401,14 +401,14 @@
       {
         "title": "Is anyone actually using crypto for anything besides holding?",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1shi6uq/is_anyone_actually_using_crypto_for_anything/",
-        "score": 59,
+        "score": 66,
         "source": "Reddit",
         "time": "2026-04-10T10:01:45.000Z"
       },
       {
         "title": "Trump's World Liberty Financial uses 5 billion WLFI to borrow $75 million from a platform its advisor co-founded",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1shlwqm/trumps_world_liberty_financial_uses_5_billion/",
-        "score": 28,
+        "score": 27,
         "source": "Reddit",
         "time": "2026-04-10T13:01:47.000Z"
       }
