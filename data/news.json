@@ -1,109 +1,109 @@
 {
-  "updatedAt": "2026-04-11T13:46:04.427Z",
+  "updatedAt": "2026-04-11T14:16:04.816Z",
   "ai": {
     "hackerNews": [
       {
-        "title": "Artemis II safely splashes down",
-        "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-        "score": 1023,
-        "source": "Hacker News",
-        "time": "2026-04-11T00:10:51.000Z"
-      },
-      {
         "title": "Filing the corners off my MacBooks",
         "url": "https://kentwalters.com/posts/corners/",
-        "score": 1015,
+        "score": 1034,
         "source": "Hacker News",
         "time": "2026-04-10T22:16:40.000Z"
       },
       {
+        "title": "Artemis II safely splashes down",
+        "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+        "score": 1034,
+        "source": "Hacker News",
+        "time": "2026-04-11T00:10:51.000Z"
+      },
+      {
         "title": "1D Chess",
         "url": "https://rowan441.github.io/1dchess/chess.html",
-        "score": 877,
+        "score": 878,
         "source": "Hacker News",
         "time": "2026-04-10T15:37:28.000Z"
       },
       {
         "title": "WireGuard makes new Windows release following Microsoft signing resolution",
         "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-        "score": 501,
+        "score": 506,
         "source": "Hacker News",
         "time": "2026-04-10T15:49:52.000Z"
       },
       {
         "title": "Installing every* Firefox extension",
         "url": "https://jack.cab/blog/every-firefox-extension",
-        "score": 470,
+        "score": 482,
         "source": "Hacker News",
         "time": "2026-04-10T21:56:33.000Z"
       },
       {
         "title": "Industrial design files for Keychron keyboards and mice",
         "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-        "score": 396,
+        "score": 403,
         "source": "Hacker News",
         "time": "2026-04-10T16:22:26.000Z"
       },
       {
         "title": "AI assistance when contributing to the Linux kernel",
         "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-        "score": 377,
+        "score": 386,
         "source": "Hacker News",
         "time": "2026-04-10T18:35:21.000Z"
       },
       {
         "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
         "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-        "score": 362,
+        "score": 367,
         "source": "Hacker News",
         "time": "2026-04-10T19:10:22.000Z"
       },
       {
         "title": "CPU-Z and HWMonitor compromised",
         "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
-        "score": 357,
+        "score": 361,
         "source": "Hacker News",
         "time": "2026-04-10T13:29:20.000Z"
       },
       {
         "title": "Helium is hard to replace",
         "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
-        "score": 331,
+        "score": 334,
         "source": "Hacker News",
         "time": "2026-04-10T15:06:51.000Z"
       },
       {
         "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
         "url": "https://playstarfling.com",
-        "score": 303,
+        "score": 315,
         "source": "Hacker News",
         "time": "2026-04-09T01:52:47.000Z"
       },
       {
         "title": "JSON formatter Chrome plugin now closed and injecting adware",
         "url": "https://github.com/callumlocke/json-formatter",
-        "score": 237,
+        "score": 240,
         "source": "Hacker News",
         "time": "2026-04-10T18:34:55.000Z"
       },
       {
         "title": "20 years on AWS and never not my job",
         "url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
-        "score": 195,
+        "score": 203,
         "source": "Hacker News",
         "time": "2026-04-11T05:31:10.000Z"
       },
       {
         "title": "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
         "url": "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62",
-        "score": 158,
+        "score": 172,
         "source": "Hacker News",
         "time": "2026-04-08T09:11:10.000Z"
       },
       {
         "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
         "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
-        "score": 136,
+        "score": 156,
         "source": "Hacker News",
         "time": "2026-04-11T08:25:14.000Z"
       }
@@ -113,7 +113,7 @@
         "title": "sindresorhus/awesome",
         "description": "😎 Awesome lists about all kinds of interesting topics",
         "url": "https://github.com/sindresorhus/awesome",
-        "score": 454125,
+        "score": 454138,
         "source": "GitHub",
         "time": "2026-04-02T16:30:33Z"
       },
@@ -121,7 +121,7 @@
         "title": "freeCodeCamp/freeCodeCamp",
         "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
         "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-        "score": 442597,
+        "score": 442604,
         "source": "GitHub",
         "time": "2026-04-10T13:59:59Z"
       },
@@ -129,7 +129,7 @@
         "title": "EbookFoundation/free-programming-books",
         "description": ":books: Freely available programming books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
-        "score": 385337,
+        "score": 385338,
         "source": "GitHub",
         "time": "2026-04-11T10:02:21Z"
       },
@@ -137,15 +137,15 @@
         "title": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "score": 354626,
+        "score": 354651,
         "source": "GitHub",
-        "time": "2026-04-11T13:41:18Z"
+        "time": "2026-04-11T14:08:29Z"
       },
       {
         "title": "kamranahmedse/developer-roadmap",
         "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
         "url": "https://github.com/kamranahmedse/developer-roadmap",
-        "score": 352681,
+        "score": 352685,
         "source": "GitHub",
         "time": "2026-04-10T23:41:02Z"
       },
@@ -153,7 +153,7 @@
         "title": "vinta/awesome-python",
         "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
         "url": "https://github.com/vinta/awesome-python",
-        "score": 291716,
+        "score": 291719,
         "source": "GitHub",
         "time": "2026-04-11T06:04:43Z"
       },
@@ -161,7 +161,7 @@
         "title": "awesome-selfhosted/awesome-selfhosted",
         "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-        "score": 285332,
+        "score": 285336,
         "source": "GitHub",
         "time": "2026-04-09T20:32:27Z"
       },
@@ -169,7 +169,7 @@
         "title": "facebook/react",
         "description": "The library for web and native user interfaces.",
         "url": "https://github.com/facebook/react",
-        "score": 244420,
+        "score": 244421,
         "source": "GitHub",
         "time": "2026-04-10T20:19:57Z"
       },
@@ -177,7 +177,7 @@
         "title": "torvalds/linux",
         "description": "Linux kernel source tree",
         "url": "https://github.com/torvalds/linux",
-        "score": 228014,
+        "score": 228020,
         "source": "GitHub",
         "time": "2026-04-11T04:04:06Z"
       },
@@ -185,7 +185,7 @@
         "title": "TheAlgorithms/Python",
         "description": "All Algorithms implemented in Python",
         "url": "https://github.com/TheAlgorithms/Python",
-        "score": 219498,
+        "score": 219499,
         "source": "GitHub",
         "time": "2026-04-10T22:07:39Z"
       },
@@ -195,13 +195,13 @@
         "url": "https://github.com/tensorflow/tensorflow",
         "score": 194656,
         "source": "GitHub",
-        "time": "2026-04-11T13:41:24Z"
+        "time": "2026-04-11T13:59:38Z"
       },
       {
         "title": "ohmyzsh/ohmyzsh",
         "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
         "url": "https://github.com/ohmyzsh/ohmyzsh",
-        "score": 186075,
+        "score": 186076,
         "source": "GitHub",
         "time": "2026-04-07T10:25:32Z"
       },
@@ -209,7 +209,7 @@
         "title": "microsoft/vscode",
         "description": "Visual Studio Code",
         "url": "https://github.com/microsoft/vscode",
-        "score": 183708,
+        "score": 183709,
         "source": "GitHub",
         "time": "2026-04-11T12:11:18Z"
       },
@@ -217,7 +217,7 @@
         "title": "n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "url": "https://github.com/n8n-io/n8n",
-        "score": 183547,
+        "score": 183550,
         "source": "GitHub",
         "time": "2026-04-11T12:01:02Z"
       },
@@ -236,35 +236,35 @@
         "url": "http://arxiv.org/abs/2604.08544v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-11T13:46:03.745Z"
+        "time": "2026-04-11T14:16:04.236Z"
       },
       {
         "title": "Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts",
         "url": "http://arxiv.org/abs/2604.08540v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-11T13:46:03.745Z"
+        "time": "2026-04-11T14:16:04.236Z"
       },
       {
         "title": "OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks",
         "url": "http://arxiv.org/abs/2604.08536v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-11T13:46:03.745Z"
+        "time": "2026-04-11T14:16:04.236Z"
       },
       {
         "title": "PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents",
         "url": "http://arxiv.org/abs/2604.08525v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-11T13:46:03.745Z"
+        "time": "2026-04-11T14:16:04.236Z"
       },
       {
         "title": "What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal",
         "url": "http://arxiv.org/abs/2604.08523v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-11T13:46:03.745Z"
+        "time": "2026-04-11T14:16:04.236Z"
       }
     ]
   },
@@ -273,128 +273,121 @@
       {
         "title": "OpenVPP (OVPP)",
         "url": "https://www.coingecko.com/en/coins/openvpp-2",
-        "score": 949,
+        "score": 948,
         "source": "CoinGecko",
-        "time": "2026-04-11T13:46:03.738Z"
+        "time": "2026-04-11T14:16:04.228Z"
       },
       {
         "title": "RaveDAO (RAVE)",
         "url": "https://www.coingecko.com/en/coins/ravedao",
-        "score": 101,
+        "score": 102,
         "source": "CoinGecko",
-        "time": "2026-04-11T13:46:03.738Z"
-      },
-      {
-        "title": "Siren (SIREN)",
-        "url": "https://www.coingecko.com/en/coins/siren-2",
-        "score": 93,
-        "source": "CoinGecko",
-        "time": "2026-04-11T13:46:03.738Z"
-      },
-      {
-        "title": "Bittensor (TAO)",
-        "url": "https://www.coingecko.com/en/coins/bittensor",
-        "score": 38,
-        "source": "CoinGecko",
-        "time": "2026-04-11T13:46:03.738Z"
+        "time": "2026-04-11T14:16:04.228Z"
       },
       {
         "title": "Zcash (ZEC)",
         "url": "https://www.coingecko.com/en/coins/zcash",
         "score": 19,
         "source": "CoinGecko",
-        "time": "2026-04-11T13:46:03.738Z"
-      },
-      {
-        "title": "Venice Token (VVV)",
-        "url": "https://www.coingecko.com/en/coins/venice-token",
-        "score": 116,
-        "source": "CoinGecko",
-        "time": "2026-04-11T13:46:03.738Z"
-      },
-      {
-        "title": "Monad (MON)",
-        "url": "https://www.coingecko.com/en/coins/monad",
-        "score": 117,
-        "source": "CoinGecko",
-        "time": "2026-04-11T13:46:03.738Z"
+        "time": "2026-04-11T14:16:04.228Z"
       },
       {
         "title": "Pudgy Penguins (PENGU)",
         "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
         "score": 109,
         "source": "CoinGecko",
-        "time": "2026-04-11T13:46:03.738Z"
+        "time": "2026-04-11T14:16:04.228Z"
       },
       {
-        "title": "Lighter (LIT)",
-        "url": "https://www.coingecko.com/en/coins/lighter",
-        "score": 136,
+        "title": "Bitcoin (BTC)",
+        "url": "https://www.coingecko.com/en/coins/bitcoin",
+        "score": 1,
         "source": "CoinGecko",
-        "time": "2026-04-11T13:46:03.738Z"
+        "time": "2026-04-11T14:16:04.228Z"
       },
       {
-        "title": "World Liberty Financial (WLFI)",
-        "url": "https://www.coingecko.com/en/coins/world-liberty-financial",
+        "title": "Bittensor (TAO)",
+        "url": "https://www.coingecko.com/en/coins/bittensor",
         "score": 37,
         "source": "CoinGecko",
-        "time": "2026-04-11T13:46:03.738Z"
+        "time": "2026-04-11T14:16:04.228Z"
+      },
+      {
+        "title": "Siren (SIREN)",
+        "url": "https://www.coingecko.com/en/coins/siren-2",
+        "score": 93,
+        "source": "CoinGecko",
+        "time": "2026-04-11T14:16:04.228Z"
+      },
+      {
+        "title": "Venice Token (VVV)",
+        "url": "https://www.coingecko.com/en/coins/venice-token",
+        "score": 116,
+        "source": "CoinGecko",
+        "time": "2026-04-11T14:16:04.228Z"
+      },
+      {
+        "title": "Monad (MON)",
+        "url": "https://www.coingecko.com/en/coins/monad",
+        "score": 117,
+        "source": "CoinGecko",
+        "time": "2026-04-11T14:16:04.228Z"
+      },
+      {
+        "title": "SkyAI (SKYAI)",
+        "url": "https://www.coingecko.com/en/coins/skyai",
+        "score": 229,
+        "source": "CoinGecko",
+        "time": "2026-04-11T14:16:04.228Z"
       }
     ],
     "reddit": [
       {
-        "title": "community-point",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1sh94w4/communitypoint/",
-        "score": 218,
-        "source": "Reddit",
-        "time": "2026-04-10T01:52:16.000Z"
-      },
-      {
         "title": "Daily Crypto Discussion - April 7, 2026 (GMT+0)",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sfbmxf/daily_crypto_discussion_april_7_2026_gmt0/",
-        "score": 20,
+        "score": 21,
         "source": "Reddit",
         "time": "2026-04-07T23:00:30.000Z"
       },
       {
         "title": "Trump Family just rugpulled $150 Million from the Dolomite lending platform - using a deposit of their illiquid WLFI from their treasury causing users to be unable to recover their funds they 'staked for yield'",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1si2rtx/trump_family_just_rugpulled_150_million_from_the/",
-        "score": 1956,
+        "score": 1993,
         "source": "Reddit",
         "time": "2026-04-10T23:30:26.000Z"
       },
       {
         "title": "Trump-backed WLFI token drops 12% to record lows after team defends multi-million lending position",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sidx4v/trumpbacked_wlfi_token_drops_12_to_record_lows/",
-        "score": 27,
+        "score": 38,
         "source": "Reddit",
         "time": "2026-04-11T08:56:51.000Z"
       },
       {
         "title": "Trump's Crypto Project Just Borrowed $50 Million Against Its Own Token and Broke the Lending Pool",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1shqpgh/trumps_crypto_project_just_borrowed_50_million/",
-        "score": 561,
+        "score": 573,
         "source": "Reddit",
         "time": "2026-04-10T16:00:18.000Z"
       },
       {
         "title": "The Hormuz Paywall: How a Sanctioned Nation Just Cornered the Bitcoin Market",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sibuba/the_hormuz_paywall_how_a_sanctioned_nation_just/",
-        "score": 32,
+        "score": 35,
         "source": "Reddit",
         "time": "2026-04-11T06:54:05.000Z"
       },
       {
         "title": "Don't Be Exit Liquidity'—Trump's WLFI Borrows $75M On Own Token",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1si7gaw/dont_be_exit_liquiditytrumps_wlfi_borrows_75m_on/",
-        "score": 66,
+        "score": 67,
         "source": "Reddit",
         "time": "2026-04-11T03:02:28.000Z"
       },
       {
         "title": "France pulls all gold out of US Federal Reserve",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1shde6i/france_pulls_all_gold_out_of_us_federal_reserve/",
-        "score": 2833,
+        "score": 2848,
         "source": "Reddit",
         "time": "2026-04-10T05:20:44.000Z"
       },
@@ -408,9 +401,16 @@
       {
         "title": "Japan Passes Bill Reclassifying Crypto as Financial Instruments",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1shqgfh/japan_passes_bill_reclassifying_crypto_as/",
-        "score": 183,
+        "score": 185,
         "source": "Reddit",
         "time": "2026-04-10T15:51:34.000Z"
+      },
+      {
+        "title": "White House: Stablecoin Yield Ban Costs More Than It Saves",
+        "url": "https://reddit.com/r/CryptoCurrency/comments/1sid2wu/white_house_stablecoin_yield_ban_costs_more_than/",
+        "score": 8,
+        "source": "Reddit",
+        "time": "2026-04-11T08:06:17.000Z"
       }
     ]
   }
