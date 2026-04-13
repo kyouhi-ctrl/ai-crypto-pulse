@@ -1,109 +1,109 @@
 {
-  "updatedAt": "2026-04-13T07:46:04.578Z",
+  "updatedAt": "2026-04-13T08:16:13.505Z",
   "ai": {
     "hackerNews": [
       {
         "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
         "url": "https://news.ycombinator.com/item?id=47738883",
-        "score": 811,
+        "score": 826,
         "source": "Hacker News",
         "time": "2026-04-12T12:28:57.000Z"
       },
       {
         "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
         "url": "https://github.com/anthropics/claude-code/issues/45756",
-        "score": 607,
+        "score": 615,
         "source": "Hacker News",
         "time": "2026-04-12T13:15:31.000Z"
       },
       {
         "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
         "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-        "score": 563,
+        "score": 565,
         "source": "Hacker News",
         "time": "2026-04-12T13:21:39.000Z"
       },
       {
         "title": "Bring Back Idiomatic Design (2023)",
         "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-        "score": 532,
+        "score": 543,
         "source": "Hacker News",
         "time": "2026-04-12T12:21:26.000Z"
       },
       {
         "title": "Exploiting the most prominent AI agent benchmarks",
         "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-        "score": 512,
+        "score": 515,
         "source": "Hacker News",
         "time": "2026-04-11T19:15:56.000Z"
       },
       {
         "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
         "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
-        "score": 421,
+        "score": 428,
         "source": "Hacker News",
         "time": "2026-04-12T19:53:08.000Z"
       },
       {
         "title": "DIY Soft Drinks",
         "url": "https://blinry.org/diy-soft-drinks/",
-        "score": 387,
+        "score": 400,
         "source": "Hacker News",
         "time": "2026-04-12T16:38:43.000Z"
       },
       {
         "title": "The peril of laziness lost",
         "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
-        "score": 376,
+        "score": 379,
         "source": "Hacker News",
         "time": "2026-04-12T19:44:40.000Z"
       },
       {
         "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
         "url": "https://boringbar.app/",
-        "score": 343,
+        "score": 349,
         "source": "Hacker News",
         "time": "2026-04-12T17:25:44.000Z"
       },
       {
         "title": "Most people can't juggle one ball",
         "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
-        "score": 324,
+        "score": 334,
         "source": "Hacker News",
         "time": "2026-04-09T12:35:20.000Z"
       },
       {
         "title": "All elementary functions from a single binary operator",
         "url": "https://arxiv.org/abs/2603.21852",
-        "score": 280,
+        "score": 300,
         "source": "Hacker News",
         "time": "2026-04-13T01:49:32.000Z"
       },
       {
         "title": "I gave every train in New York an instrument",
         "url": "https://www.trainjazz.com/",
-        "score": 263,
+        "score": 267,
         "source": "Hacker News",
         "time": "2026-04-10T15:21:07.000Z"
       },
       {
         "title": "We have a 99% email reputation, but Gmail disagrees",
         "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-        "score": 229,
+        "score": 235,
         "source": "Hacker News",
         "time": "2026-04-12T12:42:25.000Z"
       },
       {
         "title": "Phyphox – Physical Experiments Using a Smartphone",
         "url": "https://phyphox.org/",
-        "score": 209,
+        "score": 210,
         "source": "Hacker News",
         "time": "2026-04-12T08:38:11.000Z"
       },
       {
         "title": "Ask HN: What Are You Working On? (April 2026)",
         "url": "https://news.ycombinator.com/item?id=47741527",
-        "score": 202,
+        "score": 206,
         "source": "Hacker News",
         "time": "2026-04-12T16:24:43.000Z"
       }
@@ -113,7 +113,7 @@
         "title": "sindresorhus/awesome",
         "description": "😎 Awesome lists about all kinds of interesting topics",
         "url": "https://github.com/sindresorhus/awesome",
-        "score": 454715,
+        "score": 454728,
         "source": "GitHub",
         "time": "2026-04-02T16:30:33Z"
       },
@@ -121,7 +121,7 @@
         "title": "freeCodeCamp/freeCodeCamp",
         "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
         "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-        "score": 442744,
+        "score": 442749,
         "source": "GitHub",
         "time": "2026-04-13T06:06:50Z"
       },
@@ -129,7 +129,7 @@
         "title": "EbookFoundation/free-programming-books",
         "description": ":books: Freely available programming books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
-        "score": 385427,
+        "score": 385426,
         "source": "GitHub",
         "time": "2026-04-11T10:02:21Z"
       },
@@ -137,15 +137,15 @@
         "title": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "score": 355961,
+        "score": 355992,
         "source": "GitHub",
-        "time": "2026-04-13T07:43:35Z"
+        "time": "2026-04-13T07:49:35Z"
       },
       {
         "title": "kamranahmedse/developer-roadmap",
         "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
         "url": "https://github.com/kamranahmedse/developer-roadmap",
-        "score": 352801,
+        "score": 352804,
         "source": "GitHub",
         "time": "2026-04-13T07:44:18Z"
       },
@@ -153,7 +153,7 @@
         "title": "vinta/awesome-python",
         "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
         "url": "https://github.com/vinta/awesome-python",
-        "score": 292014,
+        "score": 292017,
         "source": "GitHub",
         "time": "2026-04-13T07:10:38Z"
       },
@@ -161,7 +161,7 @@
         "title": "awesome-selfhosted/awesome-selfhosted",
         "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-        "score": 285691,
+        "score": 285701,
         "source": "GitHub",
         "time": "2026-04-09T20:32:27Z"
       },
@@ -169,7 +169,7 @@
         "title": "facebook/react",
         "description": "The library for web and native user interfaces.",
         "url": "https://github.com/facebook/react",
-        "score": 244442,
+        "score": 244441,
         "source": "GitHub",
         "time": "2026-04-11T21:04:07Z"
       },
@@ -177,7 +177,7 @@
         "title": "torvalds/linux",
         "description": "Linux kernel source tree",
         "url": "https://github.com/torvalds/linux",
-        "score": 228338,
+        "score": 228348,
         "source": "GitHub",
         "time": "2026-04-12T21:03:12Z"
       },
@@ -185,7 +185,7 @@
         "title": "TheAlgorithms/Python",
         "description": "All Algorithms implemented in Python",
         "url": "https://github.com/TheAlgorithms/Python",
-        "score": 219555,
+        "score": 219558,
         "source": "GitHub",
         "time": "2026-04-10T22:07:39Z"
       },
@@ -195,7 +195,7 @@
         "url": "https://github.com/tensorflow/tensorflow",
         "score": 194687,
         "source": "GitHub",
-        "time": "2026-04-13T07:45:08Z"
+        "time": "2026-04-13T08:15:04Z"
       },
       {
         "title": "ohmyzsh/ohmyzsh",
@@ -203,23 +203,23 @@
         "url": "https://github.com/ohmyzsh/ohmyzsh",
         "score": 186116,
         "source": "GitHub",
-        "time": "2026-04-12T12:52:28Z"
+        "time": "2026-04-13T07:54:44Z"
       },
       {
         "title": "n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "url": "https://github.com/n8n-io/n8n",
-        "score": 183777,
+        "score": 183781,
         "source": "GitHub",
-        "time": "2026-04-13T07:45:41Z"
+        "time": "2026-04-13T08:15:57Z"
       },
       {
         "title": "microsoft/vscode",
         "description": "Visual Studio Code",
         "url": "https://github.com/microsoft/vscode",
-        "score": 183775,
+        "score": 183774,
         "source": "GitHub",
-        "time": "2026-04-13T07:00:00Z"
+        "time": "2026-04-13T08:14:45Z"
       },
       {
         "title": "Significant-Gravitas/AutoGPT",
@@ -227,7 +227,7 @@
         "url": "https://github.com/Significant-Gravitas/AutoGPT",
         "score": 183361,
         "source": "GitHub",
-        "time": "2026-04-13T07:26:35Z"
+        "time": "2026-04-13T08:06:32Z"
       }
     ],
     "arxiv": [
@@ -236,123 +236,123 @@
         "url": "http://arxiv.org/abs/2604.09537v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-13T07:46:03.989Z"
+        "time": "2026-04-13T08:16:12.823Z"
       },
       {
         "title": "Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise",
         "url": "http://arxiv.org/abs/2604.09531v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-13T07:46:03.989Z"
+        "time": "2026-04-13T08:16:12.823Z"
       },
       {
         "title": "VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning",
         "url": "http://arxiv.org/abs/2604.09527v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-13T07:46:03.989Z"
+        "time": "2026-04-13T08:16:12.823Z"
       },
       {
         "title": "Semantic Rate-Distortion for Bounded Multi-Agent Communication: Capacity-Derived Semantic Spaces and the Communication Cost of Alignment",
         "url": "http://arxiv.org/abs/2604.09508v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-13T07:46:03.989Z"
+        "time": "2026-04-13T08:16:12.823Z"
       },
       {
         "title": "Strategic Algorithmic Monoculture:Experimental Evidence from Coordination Games",
         "url": "http://arxiv.org/abs/2604.09497v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-13T07:46:03.989Z"
+        "time": "2026-04-13T08:16:12.823Z"
       }
     ]
   },
   "crypto": {
     "coingecko": [
       {
-        "title": "Polkadot (DOT)",
-        "url": "https://www.coingecko.com/en/coins/polkadot",
-        "score": 43,
-        "source": "CoinGecko",
-        "time": "2026-04-13T07:46:03.821Z"
-      },
-      {
         "title": "RaveDAO (RAVE)",
         "url": "https://www.coingecko.com/en/coins/ravedao",
+        "score": 41,
+        "source": "CoinGecko",
+        "time": "2026-04-13T08:16:12.799Z"
+      },
+      {
+        "title": "Polkadot (DOT)",
+        "url": "https://www.coingecko.com/en/coins/polkadot",
         "score": 44,
         "source": "CoinGecko",
-        "time": "2026-04-13T07:46:03.822Z"
+        "time": "2026-04-13T08:16:12.799Z"
       },
       {
         "title": "Infinex (INX)",
         "url": "https://www.coingecko.com/en/coins/infinex-2",
-        "score": 418,
+        "score": 410,
         "source": "CoinGecko",
-        "time": "2026-04-13T07:46:03.822Z"
+        "time": "2026-04-13T08:16:12.799Z"
       },
       {
         "title": "Bittensor (TAO)",
         "url": "https://www.coingecko.com/en/coins/bittensor",
         "score": 38,
         "source": "CoinGecko",
-        "time": "2026-04-13T07:46:03.822Z"
+        "time": "2026-04-13T08:16:12.799Z"
       },
       {
-        "title": "Monad (MON)",
-        "url": "https://www.coingecko.com/en/coins/monad",
-        "score": 114,
+        "title": "Pudgy Penguins (PENGU)",
+        "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+        "score": 110,
         "source": "CoinGecko",
-        "time": "2026-04-13T07:46:03.822Z"
+        "time": "2026-04-13T08:16:12.799Z"
       },
       {
         "title": "Aria.AI (ARIA)",
         "url": "https://www.coingecko.com/en/coins/aria-ai",
-        "score": 188,
+        "score": 184,
         "source": "CoinGecko",
-        "time": "2026-04-13T07:46:03.822Z"
-      },
-      {
-        "title": "Ethereum (ETH)",
-        "url": "https://www.coingecko.com/en/coins/ethereum",
-        "score": 2,
-        "source": "CoinGecko",
-        "time": "2026-04-13T07:46:03.822Z"
-      },
-      {
-        "title": "Hyperliquid (HYPE)",
-        "url": "https://www.coingecko.com/en/coins/hyperliquid",
-        "score": 13,
-        "source": "CoinGecko",
-        "time": "2026-04-13T07:46:03.822Z"
-      },
-      {
-        "title": "Giggle Fund (GIGGLE)",
-        "url": "https://www.coingecko.com/en/coins/giggle-fund",
-        "score": 508,
-        "source": "CoinGecko",
-        "time": "2026-04-13T07:46:03.822Z"
+        "time": "2026-04-13T08:16:12.799Z"
       },
       {
         "title": "World Liberty Financial (WLFI)",
         "url": "https://www.coingecko.com/en/coins/world-liberty-financial",
         "score": 37,
         "source": "CoinGecko",
-        "time": "2026-04-13T07:46:03.822Z"
+        "time": "2026-04-13T08:16:12.799Z"
+      },
+      {
+        "title": "Hyperliquid (HYPE)",
+        "url": "https://www.coingecko.com/en/coins/hyperliquid",
+        "score": 13,
+        "source": "CoinGecko",
+        "time": "2026-04-13T08:16:12.799Z"
+      },
+      {
+        "title": "Bitcoin (BTC)",
+        "url": "https://www.coingecko.com/en/coins/bitcoin",
+        "score": 1,
+        "source": "CoinGecko",
+        "time": "2026-04-13T08:16:12.799Z"
+      },
+      {
+        "title": "Monad (MON)",
+        "url": "https://www.coingecko.com/en/coins/monad",
+        "score": 114,
+        "source": "CoinGecko",
+        "time": "2026-04-13T08:16:12.799Z"
       }
     ],
     "reddit": [
       {
         "title": "Daily Crypto Discussion - April 7, 2026 (GMT+0)",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sfbmxf/daily_crypto_discussion_april_7_2026_gmt0/",
-        "score": 24,
+        "score": 25,
         "source": "Reddit",
         "time": "2026-04-07T23:00:30.000Z"
       },
       {
         "title": "How Trump Extracted Over $1 Billion From Crypto For Himself and His Family",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sjs05g/how_trump_extracted_over_1_billion_from_crypto/",
-        "score": 1185,
+        "score": 1212,
         "source": "Reddit",
         "time": "2026-04-12T21:59:49.000Z"
       },
@@ -366,42 +366,35 @@
       {
         "title": "I couldn't find good data on Iran's Bitcoin toll at Hormuz so I built a dashboard to track it",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sjfmc8/i_couldnt_find_good_data_on_irans_bitcoin_toll_at/",
-        "score": 418,
+        "score": 424,
         "source": "Reddit",
         "time": "2026-04-12T14:12:25.000Z"
       },
       {
         "title": "Viktor Orbán Falls and Hungary’s Crypto Crackdown May Go With Him",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sjxx97/viktor_orbán_falls_and_hungarys_crypto_crackdown/",
-        "score": 34,
+        "score": 28,
         "source": "Reddit",
         "time": "2026-04-13T02:21:22.000Z"
       },
       {
         "title": "Philadelphia Musician G. Love Loses $424K in Bitcoin to Fake Ledger App on Apple App Store",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sjjhuc/philadelphia_musician_g_love_loses_424k_in/",
-        "score": 179,
+        "score": 180,
         "source": "Reddit",
         "time": "2026-04-12T16:41:27.000Z"
       },
       {
         "title": "Tron’s Justin Sun slams Trump-backed WLFI for treating users as \"personal ATM\" after $75 Million DeFi loan",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sjekit/trons_justin_sun_slams_trumpbacked_wlfi_for/",
-        "score": 173,
+        "score": 178,
         "source": "Reddit",
         "time": "2026-04-12T13:28:24.000Z"
       },
       {
-        "title": "Are crypto markets pricing technology, ideology, or pure speculation?",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1sk0tji/are_crypto_markets_pricing_technology_ideology_or/",
-        "score": 5,
-        "source": "Reddit",
-        "time": "2026-04-13T04:41:58.000Z"
-      },
-      {
         "title": "Justin Sun Slams WLFI Over Token Lockups, Gets Legal Threat in Response",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1sjo1ky/justin_sun_slams_wlfi_over_token_lockups_gets/",
-        "score": 21,
+        "score": 22,
         "source": "Reddit",
         "time": "2026-04-12T19:29:50.000Z"
       },
@@ -411,6 +404,13 @@
         "score": 33,
         "source": "Reddit",
         "time": "2026-04-12T16:00:20.000Z"
+      },
+      {
+        "title": "Are crypto markets pricing technology, ideology, or pure speculation?",
+        "url": "https://reddit.com/r/CryptoCurrency/comments/1sk0tji/are_crypto_markets_pricing_technology_ideology_or/",
+        "score": 5,
+        "source": "Reddit",
+        "time": "2026-04-13T04:41:58.000Z"
       }
     ]
   }
