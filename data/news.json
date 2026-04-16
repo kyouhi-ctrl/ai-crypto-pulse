@@ -1,111 +1,111 @@
 {
-  "updatedAt": "2026-04-16T00:57:17.655Z",
+  "updatedAt": "2026-04-16T01:27:48.463Z",
   "ai": {
     "hackerNews": [
       {
         "title": "Google broke its promise to me – now ICE has my data",
         "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-        "score": 1060,
+        "score": 1083,
         "source": "Hacker News",
         "time": "2026-04-15T17:44:26.000Z"
       },
       {
         "title": "Want to write a compiler? Just read these two papers (2008)",
         "url": "https://prog21.dadgum.com/30.html",
-        "score": 459,
+        "score": 466,
         "source": "Hacker News",
         "time": "2026-04-15T09:41:19.000Z"
       },
       {
         "title": "God sleeps in the minerals",
         "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-        "score": 442,
+        "score": 448,
         "source": "Hacker News",
         "time": "2026-04-15T13:08:10.000Z"
       },
       {
         "title": "Live Nation illegally monopolized ticketing market, jury finds",
         "url": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-        "score": 372,
+        "score": 384,
         "source": "Hacker News",
         "time": "2026-04-15T19:06:39.000Z"
       },
       {
         "title": "Good sleep, good learning, good life (2012)",
         "url": "https://super-memory.com/articles/sleep.htm",
-        "score": 360,
+        "score": 368,
         "source": "Hacker News",
         "time": "2026-04-15T09:11:18.000Z"
       },
       {
         "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
         "url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
-        "score": 321,
+        "score": 327,
         "source": "Hacker News",
         "time": "2026-04-15T08:05:18.000Z"
       },
       {
         "title": "Cybersecurity looks like proof of work now",
         "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-        "score": 210,
+        "score": 223,
         "source": "Hacker News",
         "time": "2026-04-14T18:08:14.000Z"
       },
       {
-        "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-        "url": "https://github.com/gastownhall/gastown/issues/3649",
-        "score": 202,
-        "source": "Hacker News",
-        "time": "2026-04-15T20:49:48.000Z"
-      },
-      {
-        "title": "Do you even need a database?",
-        "url": "https://www.dbpro.app/blog/do-you-even-need-a-database",
-        "score": 197,
-        "source": "Hacker News",
-        "time": "2026-04-15T12:26:11.000Z"
-      },
-      {
         "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
         "url": "https://www.mcdonalds.co.jp/en/menu/burger/",
-        "score": 195,
+        "score": 207,
         "source": "Hacker News",
         "time": "2026-04-15T21:48:18.000Z"
       },
       {
+        "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
+        "url": "https://github.com/gastownhall/gastown/issues/3649",
+        "score": 206,
+        "source": "Hacker News",
+        "time": "2026-04-15T20:49:48.000Z"
+      },
+      {
         "title": "Cal.com is going closed source",
         "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
-        "score": 194,
+        "score": 204,
         "source": "Hacker News",
         "time": "2026-04-15T15:26:46.000Z"
       },
       {
         "title": "Ask HN: Who is using OpenClaw?",
         "url": "https://news.ycombinator.com/item?id=47783940",
-        "score": 193,
+        "score": 201,
         "source": "Hacker News",
         "time": "2026-04-15T19:22:10.000Z"
       },
       {
-        "title": "Fixing a monitor that goes black, off or blinks due to static electricity (2023)",
-        "url": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
-        "score": 111,
+        "title": "Do you even need a database?",
+        "url": "https://www.dbpro.app/blog/do-you-even-need-a-database",
+        "score": 201,
         "source": "Hacker News",
-        "time": "2026-04-12T10:27:08.000Z"
-      },
-      {
-        "title": "ChatGPT for Excel",
-        "url": "https://chatgpt.com/apps/spreadsheets/",
-        "score": 97,
-        "source": "Hacker News",
-        "time": "2026-04-15T21:21:05.000Z"
+        "time": "2026-04-15T12:26:11.000Z"
       },
       {
         "title": "YouTube now lets you turn off Shorts",
         "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
-        "score": 96,
+        "score": 128,
         "source": "Hacker News",
         "time": "2026-04-15T23:36:56.000Z"
+      },
+      {
+        "title": "Fixing a monitor that goes black, off or blinks due to static electricity (2023)",
+        "url": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
+        "score": 114,
+        "source": "Hacker News",
+        "time": "2026-04-12T10:27:08.000Z"
+      },
+      {
+        "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
+        "url": "http://tinycorelinux.net/5.x/armv6/releases/README",
+        "score": 79,
+        "source": "Hacker News",
+        "time": "2026-04-15T19:45:47.000Z"
       }
     ],
     "github": [
@@ -113,7 +113,7 @@
         "title": "sindresorhus/awesome",
         "description": "😎 Awesome lists about all kinds of interesting topics",
         "url": "https://github.com/sindresorhus/awesome",
-        "score": 455707,
+        "score": 455709,
         "source": "GitHub",
         "time": "2026-04-02T16:30:33Z"
       },
@@ -129,7 +129,7 @@
         "title": "EbookFoundation/free-programming-books",
         "description": ":books: Freely available programming books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
-        "score": 385572,
+        "score": 385571,
         "source": "GitHub",
         "time": "2026-04-15T18:54:46Z"
       },
@@ -137,15 +137,15 @@
         "title": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "score": 358155,
+        "score": 358164,
         "source": "GitHub",
-        "time": "2026-04-16T00:55:56Z"
+        "time": "2026-04-16T01:21:44Z"
       },
       {
         "title": "kamranahmedse/developer-roadmap",
         "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
         "url": "https://github.com/kamranahmedse/developer-roadmap",
-        "score": 353017,
+        "score": 353018,
         "source": "GitHub",
         "time": "2026-04-14T14:47:17Z"
       },
@@ -153,7 +153,7 @@
         "title": "vinta/awesome-python",
         "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
         "url": "https://github.com/vinta/awesome-python",
-        "score": 292546,
+        "score": 292551,
         "source": "GitHub",
         "time": "2026-04-15T04:33:40Z"
       },
@@ -161,7 +161,7 @@
         "title": "awesome-selfhosted/awesome-selfhosted",
         "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-        "score": 286221,
+        "score": 286223,
         "source": "GitHub",
         "time": "2026-04-15T17:26:35Z"
       },
@@ -169,7 +169,7 @@
         "title": "facebook/react",
         "description": "The library for web and native user interfaces.",
         "url": "https://github.com/facebook/react",
-        "score": 244550,
+        "score": 244551,
         "source": "GitHub",
         "time": "2026-04-15T16:16:55Z"
       },
@@ -177,7 +177,7 @@
         "title": "torvalds/linux",
         "description": "Linux kernel source tree",
         "url": "https://github.com/torvalds/linux",
-        "score": 229133,
+        "score": 229134,
         "source": "GitHub",
         "time": "2026-04-16T00:50:43Z"
       },
@@ -185,7 +185,7 @@
         "title": "TheAlgorithms/Python",
         "description": "All Algorithms implemented in Python",
         "url": "https://github.com/TheAlgorithms/Python",
-        "score": 219640,
+        "score": 219639,
         "source": "GitHub",
         "time": "2026-04-13T22:10:46Z"
       },
@@ -201,15 +201,15 @@
         "title": "tensorflow/tensorflow",
         "description": "An Open Source Machine Learning Framework for Everyone",
         "url": "https://github.com/tensorflow/tensorflow",
-        "score": 194747,
+        "score": 194749,
         "source": "GitHub",
-        "time": "2026-04-16T00:56:16Z"
+        "time": "2026-04-16T01:23:56Z"
       },
       {
         "title": "ohmyzsh/ohmyzsh",
         "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
         "url": "https://github.com/ohmyzsh/ohmyzsh",
-        "score": 186209,
+        "score": 186210,
         "source": "GitHub",
         "time": "2026-04-13T09:31:03Z"
       },
@@ -217,7 +217,7 @@
         "title": "ultraworkers/claw-code",
         "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
         "url": "https://github.com/ultraworkers/claw-code",
-        "score": 184800,
+        "score": 184810,
         "source": "GitHub",
         "time": "2026-04-13T12:44:53Z"
       },
@@ -230,188 +230,81 @@
         "time": "2026-04-15T20:04:22Z"
       }
     ],
-    "arxiv": [
-      {
-        "title": "Visual Preference Optimization with Rubric Rewards",
-        "url": "http://arxiv.org/abs/2604.13021v1",
-        "score": 0,
-        "source": "ArXiv",
-        "time": "2026-04-16T00:57:17.038Z"
-      },
-      {
-        "title": "PAL: Personal Adaptive Learner",
-        "url": "http://arxiv.org/abs/2604.13016v1",
-        "score": 0,
-        "source": "ArXiv",
-        "time": "2026-04-16T00:57:17.038Z"
-      },
-      {
-        "title": "Bilevel Late Acceptance Hill Climbing for the Electric Capacitated Vehicle Routing Problem",
-        "url": "http://arxiv.org/abs/2604.13010v1",
-        "score": 0,
-        "source": "ArXiv",
-        "time": "2026-04-16T00:57:17.038Z"
-      },
-      {
-        "title": "One Token Away from Collapse: The Fragility of Instruction-Tuned Helpfulness",
-        "url": "http://arxiv.org/abs/2604.12994v1",
-        "score": 0,
-        "source": "ArXiv",
-        "time": "2026-04-16T00:57:17.038Z"
-      },
-      {
-        "title": "ROSE: An Intent-Centered Evaluation Metric for NL2SQL",
-        "url": "http://arxiv.org/abs/2604.12986v1",
-        "score": 0,
-        "source": "ArXiv",
-        "time": "2026-04-16T00:57:17.038Z"
-      }
-    ]
+    "arxiv": []
   },
   "crypto": {
     "coingecko": [
+      {
+        "title": "Bio Protocol (BIO)",
+        "url": "https://www.coingecko.com/en/coins/bio-protocol",
+        "score": 380,
+        "source": "CoinGecko",
+        "time": "2026-04-16T01:27:16.341Z"
+      },
       {
         "title": "RaveDAO (RAVE)",
         "url": "https://www.coingecko.com/en/coins/ravedao",
         "score": 37,
         "source": "CoinGecko",
-        "time": "2026-04-16T00:57:17.019Z"
+        "time": "2026-04-16T01:27:16.342Z"
       },
       {
-        "title": "Bio Protocol (BIO)",
-        "url": "https://www.coingecko.com/en/coins/bio-protocol",
-        "score": 389,
+        "title": "Pudgy Penguins (PENGU)",
+        "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+        "score": 108,
         "source": "CoinGecko",
-        "time": "2026-04-16T00:57:17.019Z"
+        "time": "2026-04-16T01:27:16.342Z"
+      },
+      {
+        "title": "Monad (MON)",
+        "url": "https://www.coingecko.com/en/coins/monad",
+        "score": 112,
+        "source": "CoinGecko",
+        "time": "2026-04-16T01:27:16.342Z"
       },
       {
         "title": "Bitcoin (BTC)",
         "url": "https://www.coingecko.com/en/coins/bitcoin",
         "score": 1,
         "source": "CoinGecko",
-        "time": "2026-04-16T00:57:17.019Z"
-      },
-      {
-        "title": "Monad (MON)",
-        "url": "https://www.coingecko.com/en/coins/monad",
-        "score": 113,
-        "source": "CoinGecko",
-        "time": "2026-04-16T00:57:17.019Z"
-      },
-      {
-        "title": "Official Trump (TRUMP)",
-        "url": "https://www.coingecko.com/en/coins/official-trump",
-        "score": 83,
-        "source": "CoinGecko",
-        "time": "2026-04-16T00:57:17.019Z"
-      },
-      {
-        "title": "Ethereum (ETH)",
-        "url": "https://www.coingecko.com/en/coins/ethereum",
-        "score": 2,
-        "source": "CoinGecko",
-        "time": "2026-04-16T00:57:17.019Z"
-      },
-      {
-        "title": "Venice Token (VVV)",
-        "url": "https://www.coingecko.com/en/coins/venice-token",
-        "score": 116,
-        "source": "CoinGecko",
-        "time": "2026-04-16T00:57:17.019Z"
-      },
-      {
-        "title": "Bittensor (TAO)",
-        "url": "https://www.coingecko.com/en/coins/bittensor",
-        "score": 41,
-        "source": "CoinGecko",
-        "time": "2026-04-16T00:57:17.019Z"
+        "time": "2026-04-16T01:27:16.342Z"
       },
       {
         "title": "Zcash (ZEC)",
         "url": "https://www.coingecko.com/en/coins/zcash",
         "score": 20,
         "source": "CoinGecko",
-        "time": "2026-04-16T00:57:17.019Z"
+        "time": "2026-04-16T01:27:16.342Z"
       },
       {
-        "title": "Aerodrome Finance (AERO)",
-        "url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-        "score": 126,
+        "title": "Zama (ZAMA)",
+        "url": "https://www.coingecko.com/en/coins/zama",
+        "score": 361,
         "source": "CoinGecko",
-        "time": "2026-04-16T00:57:17.019Z"
+        "time": "2026-04-16T01:27:16.342Z"
+      },
+      {
+        "title": "Enjin Coin (ENJ)",
+        "url": "https://www.coingecko.com/en/coins/enjincoin",
+        "score": 182,
+        "source": "CoinGecko",
+        "time": "2026-04-16T01:27:16.342Z"
+      },
+      {
+        "title": "Venice Token (VVV)",
+        "url": "https://www.coingecko.com/en/coins/venice-token",
+        "score": 117,
+        "source": "CoinGecko",
+        "time": "2026-04-16T01:27:16.342Z"
+      },
+      {
+        "title": "Official Trump (TRUMP)",
+        "url": "https://www.coingecko.com/en/coins/official-trump",
+        "score": 85,
+        "source": "CoinGecko",
+        "time": "2026-04-16T01:27:16.342Z"
       }
     ],
-    "reddit": [
-      {
-        "title": "Daily Crypto Discussion - April 15, 2026 (GMT+0)",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1smlxhh/daily_crypto_discussion_april_15_2026_gmt0/",
-        "score": 2,
-        "source": "Reddit",
-        "time": "2026-04-15T23:00:32.000Z"
-      },
-      {
-        "title": "Bitcoin Developers Just Proposed Freezing Early BTC Wallets Forever",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1sm8jqt/bitcoin_developers_just_proposed_freezing_early/",
-        "score": 723,
-        "source": "Reddit",
-        "time": "2026-04-15T14:59:43.000Z"
-      },
-      {
-        "title": "Tom Lee says ‘mini crypto winter’ is over, sees Ether above $60K",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1smgyav/tom_lee_says_mini_crypto_winter_is_over_sees/",
-        "score": 85,
-        "source": "Reddit",
-        "time": "2026-04-15T19:53:55.000Z"
-      },
-      {
-        "title": "Trump's Fed Pick Is Knee Deep in Tech and Crypto Investments",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1sm8oz7/trumps_fed_pick_is_knee_deep_in_tech_and_crypto/",
-        "score": 100,
-        "source": "Reddit",
-        "time": "2026-04-15T15:04:32.000Z"
-      },
-      {
-        "title": "Michael Saylor Explains Why Bitcoin Dumped 40% in a Month",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1slyzuk/michael_saylor_explains_why_bitcoin_dumped_40_in/",
-        "score": 346,
-        "source": "Reddit",
-        "time": "2026-04-15T07:25:52.000Z"
-      },
-      {
-        "title": "IRS Study Reveals 92.5% Americans Don’t Report Crypto Sales",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1slufcy/irs_study_reveals_925_americans_dont_report/",
-        "score": 726,
-        "source": "Reddit",
-        "time": "2026-04-15T03:22:15.000Z"
-      },
-      {
-        "title": "Polymarket traders give 12% chance that Strategy sells Bitcoin this year",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1smexzn/polymarket_traders_give_12_chance_that_strategy/",
-        "score": 38,
-        "source": "Reddit",
-        "time": "2026-04-15T18:42:41.000Z"
-      },
-      {
-        "title": "Florida Man Lost $450,000 In A Crypto Romance Scam — Then Police Show Up With His Money",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1smavis/florida_man_lost_450000_in_a_crypto_romance_scam/",
-        "score": 42,
-        "source": "Reddit",
-        "time": "2026-04-15T16:20:56.000Z"
-      },
-      {
-        "title": "Coffezila -  His thoughts on Strch of MicroStrategy",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1smeivn/coffezila_his_thoughts_on_strch_of_microstrategy/",
-        "score": 17,
-        "source": "Reddit",
-        "time": "2026-04-15T18:27:44.000Z"
-      },
-      {
-        "title": "Tokenized perpetual swaps hit $31 billion weekly volume on commodities volatility",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1sm6y27/tokenized_perpetual_swaps_hit_31_billion_weekly/",
-        "score": 64,
-        "source": "Reddit",
-        "time": "2026-04-15T14:00:11.000Z"
-      }
-    ]
+    "reddit": []
   }
 }
