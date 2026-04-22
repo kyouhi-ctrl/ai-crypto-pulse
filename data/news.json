@@ -1,81 +1,88 @@
 {
-  "updatedAt": "2026-04-22T00:57:09.133Z",
+  "updatedAt": "2026-04-22T01:27:12.147Z",
   "ai": {
     "hackerNews": [
       {
         "title": "Framework Laptop 13 Pro",
         "url": "https://frame.work/laptop13pro",
-        "score": 880,
+        "score": 899,
         "source": "Hacker News",
         "time": "2026-04-21T18:00:34.000Z"
       },
       {
         "title": "Laws of Software Engineering",
         "url": "https://lawsofsoftwareengineering.com",
-        "score": 807,
+        "score": 817,
         "source": "Hacker News",
         "time": "2026-04-21T11:04:56.000Z"
       },
       {
         "title": "ChatGPT Images 2.0",
         "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-        "score": 376,
+        "score": 403,
         "source": "Hacker News",
         "time": "2026-04-21T18:50:00.000Z"
       },
       {
         "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
         "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-        "score": 303,
+        "score": 318,
         "source": "Hacker News",
         "time": "2026-04-21T17:40:39.000Z"
       },
       {
         "title": "Changes to GitHub Copilot individual plans",
         "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
-        "score": 300,
+        "score": 312,
         "source": "Hacker News",
         "time": "2026-04-20T18:24:05.000Z"
       },
       {
         "title": "Edit store price tags using Flipper Zero",
         "url": "https://github.com/i12bp8/TagTinker",
-        "score": 276,
+        "score": 280,
         "source": "Hacker News",
         "time": "2026-04-19T09:26:04.000Z"
       },
       {
         "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
         "url": "http://mnt.stanleylieber.com/reform/",
-        "score": 275,
+        "score": 278,
         "source": "Hacker News",
         "time": "2026-04-20T14:14:52.000Z"
       },
       {
         "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
         "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-        "score": 253,
+        "score": 257,
         "source": "Hacker News",
         "time": "2026-04-21T17:14:35.000Z"
       },
       {
-        "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
-        "url": "https://vidstudio.app/video-editor",
-        "score": 238,
-        "source": "Hacker News",
-        "time": "2026-04-21T11:58:16.000Z"
-      },
-      {
         "title": "Claude Code to be removed from Pro Tier?",
         "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-        "score": 227,
+        "score": 246,
         "source": "Hacker News",
         "time": "2026-04-21T22:36:24.000Z"
       },
       {
+        "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+        "url": "https://vidstudio.app/video-editor",
+        "score": 242,
+        "source": "Hacker News",
+        "time": "2026-04-21T11:58:16.000Z"
+      },
+      {
+        "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+        "url": "https://twitter.com/spacex/status/2046713419978453374",
+        "score": 214,
+        "source": "Hacker News",
+        "time": "2026-04-21T22:13:18.000Z"
+      },
+      {
         "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
         "url": "https://britannica11.org/",
-        "score": 209,
+        "score": 212,
         "source": "Hacker News",
         "time": "2026-04-21T17:33:50.000Z"
       },
@@ -87,23 +94,16 @@
         "time": "2026-04-18T12:41:00.000Z"
       },
       {
-        "title": "SpaceX says it has agreement to acquire Cursor for $60B",
-        "url": "https://twitter.com/spacex/status/2046713419978453374",
-        "score": 162,
-        "source": "Hacker News",
-        "time": "2026-04-21T22:13:18.000Z"
-      },
-      {
         "title": "Show HN: GoModel – an open-source AI gateway in Go",
         "url": "https://github.com/ENTERPILOT/GOModel/",
-        "score": 157,
+        "score": 159,
         "source": "Hacker News",
         "time": "2026-04-21T14:11:53.000Z"
       },
       {
         "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
         "url": "https://codemix.com/graph",
-        "score": 145,
+        "score": 147,
         "source": "Hacker News",
         "time": "2026-04-21T10:33:24.000Z"
       }
@@ -113,7 +113,7 @@
         "title": "sindresorhus/awesome",
         "description": "😎 Awesome lists about all kinds of interesting topics",
         "url": "https://github.com/sindresorhus/awesome",
-        "score": 457669,
+        "score": 457671,
         "source": "GitHub",
         "time": "2026-04-19T17:04:38Z"
       },
@@ -121,7 +121,7 @@
         "title": "freeCodeCamp/freeCodeCamp",
         "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
         "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-        "score": 443325,
+        "score": 443328,
         "source": "GitHub",
         "time": "2026-04-21T20:07:00Z"
       },
@@ -129,7 +129,7 @@
         "title": "EbookFoundation/free-programming-books",
         "description": ":books: Freely available programming books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
-        "score": 385830,
+        "score": 385832,
         "source": "GitHub",
         "time": "2026-04-20T14:04:53Z"
       },
@@ -137,15 +137,15 @@
         "title": "openclaw/openclaw",
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
         "url": "https://github.com/openclaw/openclaw",
-        "score": 361886,
+        "score": 361898,
         "source": "GitHub",
-        "time": "2026-04-22T00:53:30Z"
+        "time": "2026-04-22T01:26:06Z"
       },
       {
         "title": "kamranahmedse/developer-roadmap",
         "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
         "url": "https://github.com/kamranahmedse/developer-roadmap",
-        "score": 353337,
+        "score": 353339,
         "source": "GitHub",
         "time": "2026-04-21T10:46:18Z"
       },
@@ -153,7 +153,7 @@
         "title": "vinta/awesome-python",
         "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
         "url": "https://github.com/vinta/awesome-python",
-        "score": 293680,
+        "score": 293682,
         "source": "GitHub",
         "time": "2026-04-21T19:50:04Z"
       },
@@ -161,7 +161,7 @@
         "title": "awesome-selfhosted/awesome-selfhosted",
         "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-        "score": 287434,
+        "score": 287435,
         "source": "GitHub",
         "time": "2026-04-18T13:02:31Z"
       },
@@ -169,7 +169,7 @@
         "title": "facebook/react",
         "description": "The library for web and native user interfaces.",
         "url": "https://github.com/facebook/react",
-        "score": 244642,
+        "score": 244643,
         "source": "GitHub",
         "time": "2026-04-21T09:39:34Z"
       },
@@ -177,7 +177,7 @@
         "title": "torvalds/linux",
         "description": "Linux kernel source tree",
         "url": "https://github.com/torvalds/linux",
-        "score": 230268,
+        "score": 230272,
         "source": "GitHub",
         "time": "2026-04-22T00:44:30Z"
       },
@@ -203,13 +203,13 @@
         "url": "https://github.com/tensorflow/tensorflow",
         "score": 194813,
         "source": "GitHub",
-        "time": "2026-04-22T00:51:17Z"
+        "time": "2026-04-22T01:22:11Z"
       },
       {
         "title": "ultraworkers/claw-code",
         "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
         "url": "https://github.com/ultraworkers/claw-code",
-        "score": 187169,
+        "score": 187178,
         "source": "GitHub",
         "time": "2026-04-21T23:47:56Z"
       },
@@ -217,7 +217,7 @@
         "title": "ohmyzsh/ohmyzsh",
         "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
         "url": "https://github.com/ohmyzsh/ohmyzsh",
-        "score": 186401,
+        "score": 186400,
         "source": "GitHub",
         "time": "2026-04-20T09:01:03Z"
       },
@@ -225,7 +225,7 @@
         "title": "n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "url": "https://github.com/n8n-io/n8n",
-        "score": 185027,
+        "score": 185023,
         "source": "GitHub",
         "time": "2026-04-21T23:44:05Z"
       }
@@ -236,109 +236,109 @@
         "url": "http://arxiv.org/abs/2604.18580v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-22T00:57:08.437Z"
+        "time": "2026-04-22T01:27:10.903Z"
       },
       {
         "title": "Bounded Ratio Reinforcement Learning",
         "url": "http://arxiv.org/abs/2604.18576v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-22T00:57:08.437Z"
+        "time": "2026-04-22T01:27:10.904Z"
       },
       {
         "title": "When Can LLMs Learn to Reason with Weak Supervision?",
         "url": "http://arxiv.org/abs/2604.18572v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-22T00:57:08.437Z"
+        "time": "2026-04-22T01:27:10.904Z"
       },
       {
         "title": "A multimodal and temporal foundation model for virtual patient representations at healthcare system scale",
         "url": "http://arxiv.org/abs/2604.18567v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-22T00:57:08.437Z"
+        "time": "2026-04-22T01:27:10.904Z"
       },
       {
         "title": "Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion",
         "url": "http://arxiv.org/abs/2604.18543v1",
         "score": 0,
         "source": "ArXiv",
-        "time": "2026-04-22T00:57:08.437Z"
+        "time": "2026-04-22T01:27:10.904Z"
       }
     ]
   },
   "crypto": {
     "coingecko": [
       {
-        "title": "Make Aliens Great Again (MAGA)",
-        "url": "https://www.coingecko.com/en/coins/make-aliens-great-again",
-        "score": 788,
-        "source": "CoinGecko",
-        "time": "2026-04-22T00:57:08.419Z"
-      },
-      {
-        "title": "Pudgy Penguins (PENGU)",
-        "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-        "score": 103,
-        "source": "CoinGecko",
-        "time": "2026-04-22T00:57:08.420Z"
-      },
-      {
         "title": "CHIP (CHIP)",
         "url": "https://www.coingecko.com/en/coins/chip-2",
-        "score": 256,
+        "score": 260,
         "source": "CoinGecko",
-        "time": "2026-04-22T00:57:08.420Z"
+        "time": "2026-04-22T01:27:12.147Z"
       },
       {
         "title": "RaveDAO (RAVE)",
         "url": "https://www.coingecko.com/en/coins/ravedao",
         "score": 123,
         "source": "CoinGecko",
-        "time": "2026-04-22T00:57:08.420Z"
+        "time": "2026-04-22T01:27:12.147Z"
+      },
+      {
+        "title": "Make Aliens Great Again (MAGA)",
+        "url": "https://www.coingecko.com/en/coins/make-aliens-great-again",
+        "score": 784,
+        "source": "CoinGecko",
+        "time": "2026-04-22T01:27:12.147Z"
       },
       {
         "title": "Asteroid Shiba (ASTEROID)",
         "url": "https://www.coingecko.com/en/coins/asteroid-shiba",
-        "score": 221,
+        "score": 222,
         "source": "CoinGecko",
-        "time": "2026-04-22T00:57:08.420Z"
-      },
-      {
-        "title": "Aave (AAVE)",
-        "url": "https://www.coingecko.com/en/coins/aave",
-        "score": 55,
-        "source": "CoinGecko",
-        "time": "2026-04-22T00:57:08.420Z"
+        "time": "2026-04-22T01:27:12.147Z"
       },
       {
         "title": "Bitcoin (BTC)",
         "url": "https://www.coingecko.com/en/coins/bitcoin",
         "score": 1,
         "source": "CoinGecko",
-        "time": "2026-04-22T00:57:08.420Z"
+        "time": "2026-04-22T01:27:12.147Z"
       },
       {
-        "title": "Hyperliquid (HYPE)",
-        "url": "https://www.coingecko.com/en/coins/hyperliquid",
-        "score": 14,
+        "title": "OpenGradient (OPG)",
+        "url": "https://www.coingecko.com/en/coins/opengradient",
+        "score": 333,
         "source": "CoinGecko",
-        "time": "2026-04-22T00:57:08.420Z"
+        "time": "2026-04-22T01:27:12.147Z"
       },
       {
-        "title": "XRP (XRP)",
-        "url": "https://www.coingecko.com/en/coins/ripple",
-        "score": 4,
+        "title": "Bittensor (TAO)",
+        "url": "https://www.coingecko.com/en/coins/bittensor",
+        "score": 39,
         "source": "CoinGecko",
-        "time": "2026-04-22T00:57:08.420Z"
+        "time": "2026-04-22T01:27:12.147Z"
+      },
+      {
+        "title": "Aave (AAVE)",
+        "url": "https://www.coingecko.com/en/coins/aave",
+        "score": 55,
+        "source": "CoinGecko",
+        "time": "2026-04-22T01:27:12.147Z"
       },
       {
         "title": "Pi Network (PI)",
         "url": "https://www.coingecko.com/en/coins/pi-network",
         "score": 49,
         "source": "CoinGecko",
-        "time": "2026-04-22T00:57:08.420Z"
+        "time": "2026-04-22T01:27:12.147Z"
+      },
+      {
+        "title": "Meteora (MET)",
+        "url": "https://www.coingecko.com/en/coins/meteora",
+        "score": 301,
+        "source": "CoinGecko",
+        "time": "2026-04-22T01:27:12.147Z"
       }
     ],
     "reddit": [
@@ -352,35 +352,35 @@
       {
         "title": "Elon Musk helped write the law governing his own payment app, dismantled the regulator that would police it, and is now launching a stablecoin. Senator Warren has some questions.",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1srk526/elon_musk_helped_write_the_law_governing_his_own/",
-        "score": 883,
+        "score": 886,
         "source": "Reddit",
         "time": "2026-04-21T10:52:32.000Z"
       },
       {
         "title": "Arbitrum freezing $71M of ETH should concern everyone here (remember why crypto exists).",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1ss1ybj/arbitrum_freezing_71m_of_eth_should_concern/",
-        "score": 52,
+        "score": 60,
         "source": "Reddit",
         "time": "2026-04-21T21:49:14.000Z"
       },
       {
         "title": "Strategy Surpasses BlackRock Becoming Largest Bitcoin Holder With 815,061 BTC",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1srnr7f/strategy_surpasses_blackrock_becoming_largest/",
-        "score": 241,
+        "score": 247,
         "source": "Reddit",
         "time": "2026-04-21T13:31:01.000Z"
       },
       {
         "title": "North Korea just stole $292 million from DeFi and the two protocols involved are publicly blaming each other",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1srfib8/north_korea_just_stole_292_million_from_defi_and/",
-        "score": 433,
+        "score": 436,
         "source": "Reddit",
         "time": "2026-04-21T06:23:58.000Z"
       },
       {
         "title": "I got tired of CoinMarketCap listing 10,000+ tokens including memes and scams — so I built a filtered version. Feedback welcome.",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1srpq3m/i_got_tired_of_coinmarketcap_listing_10000_tokens/",
-        "score": 76,
+        "score": 72,
         "source": "Reddit",
         "time": "2026-04-21T14:43:50.000Z"
       },
@@ -392,25 +392,25 @@
         "time": "2026-04-21T15:13:21.000Z"
       },
       {
+        "title": "Pornhub drops USDT for USDC",
+        "url": "https://reddit.com/r/CryptoCurrency/comments/1ss70du/pornhub_drops_usdt_for_usdc/",
+        "score": 6,
+        "source": "Reddit",
+        "time": "2026-04-22T01:20:40.000Z"
+      },
+      {
         "title": "A year since the Bybit thing and honestly my takeaway isn't what I expected",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1ss04nt/a_year_since_the_bybit_thing_and_honestly_my/",
-        "score": 16,
+        "score": 12,
         "source": "Reddit",
         "time": "2026-04-21T20:42:29.000Z"
       },
       {
         "title": "DoorDash to Offer Stablecoin Payments to Users via Tempo Blockchain",
         "url": "https://reddit.com/r/CryptoCurrency/comments/1srz6sl/doordash_to_offer_stablecoin_payments_to_users/",
-        "score": 11,
+        "score": 12,
         "source": "Reddit",
         "time": "2026-04-21T20:09:27.000Z"
-      },
-      {
-        "title": "Strategy (MSTR) overtakes BlackRock's IBIT after aggressive bear market BTC buying",
-        "url": "https://reddit.com/r/CryptoCurrency/comments/1sriy6i/strategy_mstr_overtakes_blackrocks_ibit_after/",
-        "score": 63,
-        "source": "Reddit",
-        "time": "2026-04-21T09:47:46.000Z"
       }
     ]
   }
